@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>✏️ Worksheet Maker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ── Controls sidebar (screen only) ──────────────────────────────────── -->
+  <aside class="sidebar no-print">
+    <h2 class="sidebar-title">✏️ Worksheet Maker</h2>
+
+    <div class="form-group">
+      <label for="ws-title-input">📝 Title</label>
+      <input type="text" id="ws-title-input" value="⭐ My Worksheet ⭐">
+    </div>
+
+    <!-- Math section -->
+    <div class="form-section">
+      <div class="form-section-title">
+        <input type="checkbox" id="math-enabled" checked>
+        <label for="math-enabled">🔢 Math</label>
+      </div>
+      <div id="math-options" class="form-fields">
+        <div class="form-row">
+          <label for="math-max-right">a+b=＿ &nbsp;max</label>
+          <input type="number" id="math-max-right" value="10" min="1" max="99">
+        </div>
+        <div class="form-row">
+          <label for="math-max-left-ans">a+＿=c &nbsp;answer max</label>
+          <input type="number" id="math-max-left-ans" value="5" min="1" max="99">
+        </div>
+        <div class="form-row">
+          <label for="math-max-left-stem">a+＿=c &nbsp;numbers max</label>
+          <input type="number" id="math-max-left-stem" value="12" min="1" max="99">
+        </div>
+        <div class="form-row">
+          <label for="math-count">🔢 Count</label>
+          <input type="number" id="math-count" value="10" min="2" max="30">
+        </div>
+      </div>
+    </div>
+
+    <!-- Alphabet section -->
+    <div class="form-section">
+      <div class="form-section-title">
+        <input type="checkbox" id="alpha-enabled" checked>
+        <label for="alpha-enabled">🔤 Alphabet</label>
+      </div>
+    </div>
+
+    <div class="btn-row">
+      <button id="btn-generate" class="btn-primary">🎲 Shuffle</button>
+      <button id="btn-print"    class="btn-secondary">🖨️ Print</button>
+    </div>
+
+    <p class="hint">
+      <b>a+b=＿</b> · <b>a+＿=c</b> · <b>c−＿=b</b><br>
+      All numbers stay within your limits.<br>
+      Hit 🎲 for a fresh set!
+    </p>
+  </aside>
+
+  <!-- ── A4 preview ───────────────────────────────────────────────────────── -->
+  <main class="preview-area">
+    <div class="a4-page" id="worksheet">
+      <div class="ws-deco-top"></div>
+      <h1 class="ws-title" id="ws-title-display"></h1>
+      <section id="ws-math"></section>
+      <section id="ws-alpha"></section>
+      <div class="ws-deco-bottom"></div>
+    </div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

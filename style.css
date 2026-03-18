@@ -1,0 +1,312 @@
+/* ── Reset ──────────────────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; }
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  display: flex;
+  background: #e8eaf6;
+}
+
+/* ── Sidebar ────────────────────────────────────────────────────────────────── */
+.sidebar {
+  width: 272px;
+  flex-shrink: 0;
+  background: #fff;
+  padding: 18px 16px;
+  overflow-y: auto;
+  box-shadow: 2px 0 16px rgba(80,80,180,.13);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  font-size: 13px;
+}
+
+.sidebar-title {
+  font-size: 16px;
+  font-weight: 800;
+  color: #fff;
+  background: linear-gradient(135deg, #5c6bc0, #7e57c2);
+  border-radius: 10px;
+  padding: 10px 14px;
+  letter-spacing: .02em;
+}
+
+/* Form elements */
+.form-group label {
+  display: block;
+  font-size: 11px;
+  color: #777;
+  margin-bottom: 4px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+}
+
+.form-group input[type="text"] {
+  width: 100%;
+  padding: 6px 8px;
+  border: 1.5px solid #c5cae9;
+  border-radius: 7px;
+  font-size: 14px;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+.form-group input[type="text"]:focus { outline: none; border-color: #5c6bc0; }
+
+.form-section {
+  border: 1.5px solid #e8eaf6;
+  border-radius: 10px;
+  padding: 10px 12px;
+  background: #fafbff;
+}
+
+.form-section-title {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+.form-section-title input[type="checkbox"] { cursor: pointer; accent-color: #5c6bc0; }
+.form-section-title label { cursor: pointer; }
+
+.form-fields {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding-left: 2px;
+}
+
+.form-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+.form-row label { color: #555; font-size: 12px; white-space: nowrap; }
+.form-row input[type="number"] {
+  width: 56px;
+  padding: 4px 6px;
+  border: 1.5px solid #c5cae9;
+  border-radius: 6px;
+  font-size: 13px;
+  text-align: center;
+}
+.form-row input[type="number"]:focus { outline: none; border-color: #5c6bc0; }
+
+/* Buttons */
+.btn-row { display: flex; gap: 8px; }
+
+button {
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 10px;
+  font-size: 14px;
+  font-weight: 800;
+  transition: opacity .15s, transform .1s;
+  letter-spacing: .01em;
+}
+button:hover  { opacity: .88; }
+button:active { transform: scale(.97); }
+
+.btn-primary   { background: linear-gradient(135deg, #5c6bc0, #7e57c2); color: #fff; flex: 1; }
+.btn-secondary { background: linear-gradient(135deg, #26a69a, #1e8f72); color: #fff; flex: 1; }
+
+.hint {
+  font-size: 11px;
+  color: #aaa;
+  line-height: 1.7;
+}
+.hint b { color: #7986cb; }
+
+/* ── Preview area ───────────────────────────────────────────────────────────── */
+.preview-area {
+  flex: 1;
+  overflow: auto;
+  padding: 24px 28px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+/* ── A4 page ────────────────────────────────────────────────────────────────── */
+.a4-page {
+  width: 210mm;
+  min-height: 297mm;
+  background: #fff;
+  padding: 15mm;
+  box-shadow: 0 8px 32px rgba(80,80,180,.18);
+  flex-shrink: 0;
+  border-radius: 4px;
+}
+
+/* ── Decorative banner ──────────────────────────────────────────────────────── */
+.ws-deco-top {
+  background: linear-gradient(120deg, #fce4ec 0%, #e8eaf6 50%, #e8f5e9 100%);
+  border-radius: 12px;
+  text-align: center;
+  font-size: 22pt;
+  padding: 3.5mm 2mm;
+  margin-bottom: 5mm;
+  letter-spacing: 2.5mm;
+  line-height: 1.2;
+}
+
+.ws-deco-bottom {
+  background: linear-gradient(120deg, #e8f5e9 0%, #fff9c4 60%, #fce4ec 100%);
+  border-radius: 12px;
+  text-align: center;
+  font-size: 13pt;
+  font-weight: 800;
+  color: #5c6bc0;
+  padding: 3.5mm 2mm;
+  margin-top: 8mm;
+  letter-spacing: .5mm;
+}
+
+/* ── Worksheet title ────────────────────────────────────────────────────────── */
+.ws-title {
+  text-align: center;
+  font-size: 24pt;
+  font-weight: 800;
+  color: #3949ab;
+  margin-bottom: 8mm;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  letter-spacing: .03em;
+}
+
+/* ── Section header ─────────────────────────────────────────────────────────── */
+.sec-header {
+  display: flex;
+  align-items: center;
+  gap: 3mm;
+  margin-bottom: 3mm;
+}
+.sec-label {
+  font-size: 14pt;
+  font-weight: 800;
+  white-space: nowrap;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  letter-spacing: .01em;
+}
+.sec-rule {
+  flex: 1;
+  border-top: 1.5pt solid currentColor;
+  margin-top: 1pt;
+  opacity: .35;
+}
+.sec-math  .sec-label, .sec-math  .sec-rule { color: #3949ab; }
+.sec-alpha .sec-label, .sec-alpha .sec-rule { color: #00897b; }
+
+.section-body { margin-bottom: 8mm; }
+
+/* ── Math grid ──────────────────────────────────────────────────────────────── */
+.math-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 6mm;
+}
+
+.problem {
+  display: flex;
+  align-items: baseline;
+  min-height: 15mm;
+  font-size: 20pt;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+.prob-num {
+  font-size: 11pt;
+  color: #7986cb;
+  min-width: 9mm;
+  flex-shrink: 0;
+  line-height: 1;
+  padding-top: 3pt;
+  font-weight: 700;
+}
+
+.prob-text {
+  display: inline-flex;
+  align-items: baseline;
+}
+
+/* The fill-in blank */
+.blank {
+  display: inline-block;
+  width: 20mm;
+  border-bottom: 2pt solid #3949ab;
+  position: relative;
+  top: 2pt;
+  margin: 0 .5mm;
+}
+
+/* ── Alphabet grid ──────────────────────────────────────────────────────────── */
+.alpha-grid {
+  display: grid;
+  grid-template-columns: repeat(13, 1fr);
+  gap: 1mm;
+  margin-top: 2mm;
+}
+
+.alpha-cell {
+  height: 20mm;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.alpha-shown {
+  font-size: 22pt;
+  font-weight: 800;
+  color: #00897b;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Blank writing line */
+.alpha-blank::after {
+  content: '';
+  position: absolute;
+  bottom: 3mm;
+  left: 1.5mm;
+  right: 1.5mm;
+  border-bottom: 1.5pt solid #80cbc4;
+}
+
+/* ── Print ──────────────────────────────────────────────────────────────────── */
+@page {
+  size: A4 portrait;
+  margin: 15mm;
+}
+
+@media print {
+  .no-print { display: none !important; }
+
+  body { background: none; display: block; }
+
+  .preview-area {
+    padding: 0;
+    display: block;
+    overflow: visible;
+  }
+
+  .a4-page {
+    width: 100%;
+    min-height: auto;
+    padding: 0;
+    box-shadow: none;
+    border-radius: 0;
+  }
+
+  /* Preserve colours when printing */
+  .ws-title,
+  .ws-deco-top, .ws-deco-bottom,
+  .sec-math  .sec-label, .sec-math  .sec-rule,
+  .sec-alpha .sec-label, .sec-alpha .sec-rule,
+  .alpha-shown, .blank, .prob-num {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
