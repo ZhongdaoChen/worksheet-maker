@@ -1,0 +1,124 @@
+Oxford Phonics World — Level 1, 2, 3 词汇表
+============================================
+
+========================================
+LEVEL 1 — 字母与发音（The Alphabet）
+========================================
+
+Aa: apple, ax, ant, alligator
+Bb: bear, bird, bed, banana
+Cc: cat, cup, car, computer
+Dd: dog, desk, doll, duck
+Ee: egg, elbow, envelope, elephant
+Ff: fish, fan, farm, fork
+Gg: gorilla, goat, gift, girl
+Hh: horse, hat, house, hot dog
+Ii: insect, ink, igloo, iguana
+Jj: jet, jam, juice, jacket
+Kk: kangaroo, key, king, kite
+Ll: lion, lamp, leaf, lemon
+Mm: monkey, milk, money, mouse
+Nn: nut, net, nest, nose
+Oo: octopus, ox, olive, ostrich
+Pp: peach, pen, panda, pineapple
+Qq: queen, quiz, quilt, question
+Rr: rabbit, rose, rice, robot
+Ss: seal, sun, soap, socks
+Tt: turtle, tent, tiger, teacher
+Uu: umbrella, up, uncle, umpire
+Vv: van, vet, vest, violin
+Ww: wolf, water, watch, wax, web
+Xx: fox, box, six
+Yy: yo-yo, yak, yogurt, yacht
+Zz: zipper, zero, zoo, zebra
+
+约 127 个单词
+
+
+========================================
+LEVEL 2 — 短元音 CVC 词族（Short Vowels）
+========================================
+
+--- 短元音 a ---
+短 a:  cat, ant, yak, ax
+-am:   ram, jam, yam, dam
+-an:   fan, man, pan, can
+-ad:   dad, pad
+-ag:   bag, rag
+-ap:   cap, map, nap, tap
+-at:   bat, rat, hat, mat
+
+--- 短元音 e ---
+短 e:  web, egg
+-et:   vet, jet, net, wet, pet, ten
+-en:   hen, pen
+-ed:   red, bed
+
+--- 短元音 i ---
+短 i:  hip, ink, zip
+-ip:   lip, tip, sip, rip
+-ib:   bib, rib
+-id:   kid, lid
+-in:   pin, fin, bin, win
+-ig:   fig, wig, big, dig
+-it:   pit, hit
+-ix:   six, mix
+
+--- 短元音 o ---
+短 o:  fox, log, ox, rod
+-ot:   pot, hot, cot, dot
+-op:   top, mop, hop, pop
+
+--- 短元音 u ---
+短 u:  sun, up
+-ug:   jug, hug, bug, rug, mug
+-ud:   bud, mud
+-up:   pup, cup
+-ut:   nut, hut, cut
+-ub:   cub, tub
+-um:   gum, hum
+-un:   bun, run, fun
+
+约 97 个单词
+
+
+========================================
+LEVEL 3 — 长元音（Magic-e & 元音组合）
+========================================
+
+--- Magic-e 长元音 ---
+a_e (长A): tape, cape, cane, mane, game, cake, name, lake, gate, wave, skate, cave
+i_e (长I): kite, pine, ripe, fine, lime, bike, time, hike, five, nine, dive, line
+o_e (长O): home, bone, cone, rope
+u_e (长U): cube, mute, cute, mule, tube, June, tune, rule
+
+--- 元音组合 长A ---
+ai: rain, nail, tail, wait, sail, mail
+ay: bay, day, say, pay, hay, May
+
+--- 元音组合 长E ---
+ee: bee, feet, seed, jeep
+ea: leaf, eat, sea, meat
+ey/y: key, candy, happy, money
+
+--- 元音组合 长I ---
+igh: light, night, high, right
+ie:  pie, tie, lie, die
+y:   spy, sky, cry, my
+
+--- 元音组合 长O ---
+oa: boat, coat, soap, road, goat, toad
+ow: bow, row, yellow, pillow, elbow, window
+
+--- 元音组合 长U ---
+oo: moon, zoo, food, boot
+ue: blue, glue, clue, Tuesday
+ew: new, dew
+ui: fruit, suit
+
+约 92 个单词
+
+
+========================================
+总计：约 316 个单词
+========================================

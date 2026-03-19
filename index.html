@@ -51,6 +51,30 @@
       </div>
     </div>
 
+    <!-- Sentences section -->
+    <div class="form-section">
+      <div class="form-section-title">
+        <input type="checkbox" id="sent-enabled" checked>
+        <label for="sent-enabled">📖 Sentences</label>
+      </div>
+      <div id="sent-options" class="form-fields">
+        <div class="form-row">
+          <label for="sent-level">Level up to</label>
+          <select id="sent-level">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3" selected>3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+        <div class="form-row">
+          <label for="sent-count">Count</label>
+          <input type="number" id="sent-count" value="3" min="1" max="12">
+        </div>
+      </div>
+    </div>
+
     <div class="btn-row">
       <button id="btn-generate" class="btn-primary">🎲 Shuffle</button>
       <button id="btn-print"    class="btn-secondary">🖨️ Print</button>
@@ -70,10 +94,12 @@
       <h1 class="ws-title" id="ws-title-display"></h1>
       <section id="ws-math"></section>
       <section id="ws-alpha"></section>
+      <section id="ws-sent"></section>
       <div class="ws-deco-bottom"></div>
     </div>
   </main>
 
+  <script src="sentences.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

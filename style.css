@@ -275,6 +275,82 @@ button:active { transform: scale(.97); }
   border-bottom: 1.5pt solid #80cbc4;
 }
 
+/* ── Sentences section ──────────────────────────────────────────────────────── */
+.sec-sent .sec-label, .sec-sent .sec-rule { color: #7b3fa0; }
+
+.sent-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.sent-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 3mm;
+  break-inside: avoid;
+}
+
+.sent-num {
+  font-size: 11pt;
+  color: #9c6bc2;
+  min-width: 9mm;
+  flex-shrink: 0;
+  padding-top: 2pt;
+  font-weight: 700;
+}
+
+.sent-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+/* Full reference sentence — shown in muted colour so child focuses on cloze */
+.sent-full {
+  font-size: 16pt;
+  color: #9e9e9e;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.2;
+}
+
+/* Cloze sentence — prominent, child writes in the blanks */
+.sent-cloze {
+  font-size: 15pt;
+  font-weight: 700;
+  color: #4a148c;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.8;
+}
+
+/* CSS blank replacing ___ — wide enough for a child to write a word */
+.sent-blank {
+  display: inline-block;
+  width: 36mm;
+  border-bottom: 2pt solid #9c6bc2;
+  position: relative;
+  top: 2pt;
+  margin: 0 1mm;
+}
+
+/* Writing space below the cloze */
+.sent-write-line {
+  display: none;
+}
+
+/* Sidebar select */
+#sent-level {
+  width: 56px;
+  padding: 4px 4px;
+  border: 1.5px solid #c5cae9;
+  border-radius: 6px;
+  font-size: 13px;
+  text-align: center;
+  background: #fff;
+}
+#sent-level:focus { outline: none; border-color: #5c6bc0; }
+
 /* ── Print ──────────────────────────────────────────────────────────────────── */
 @page {
   size: A4 portrait;
@@ -305,7 +381,9 @@ button:active { transform: scale(.97); }
   .ws-deco-top, .ws-deco-bottom,
   .sec-math  .sec-label, .sec-math  .sec-rule,
   .sec-alpha .sec-label, .sec-alpha .sec-rule,
-  .alpha-shown, .blank, .prob-num {
+  .sec-sent  .sec-label, .sec-sent  .sec-rule,
+  .alpha-shown, .blank, .prob-num,
+  .sent-full, .sent-cloze, .sent-num, .sent-write-line {
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
   }

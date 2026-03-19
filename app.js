@@ -185,23 +185,64 @@ function renderAlpha(items, container) {
     <div class="section-body alpha-grid">${cells}</div>`;
 }
 
+// ── Sentence exercise ─────────────────────────────────────────────────────────
+// Picks `count` sentences from PHONICS_SENTENCES where level <= maxLevel,
+// shuffled randomly and deduplicated.
+
+function makeSentenceProblems(maxLevel, count) {
+  const pool = PHONICS_SENTENCES.filter(s => s.level <= maxLevel);
+  const shuffled = [...pool].sort(() => Math.random() - 0.5);
+  return shuffled.slice(0, Math.min(count, shuffled.length));
+}
+
+function renderSentences(problems, container) {
+  if (!problems || !problems.length) { container.innerHTML = ''; return; }
+
+  const items = problems.map((p, i) => {
+    // Replace ___ with a CSS blank span for proper width underlines
+    const clozeHtml = escHtml(p.cloze)
+      .replace(/___/g, '<span class="sent-blank"></span>');
+    return `
+    <div class="sent-item">
+      <div class="sent-num">${circleNum(i + 1)}</div>
+      <div class="sent-body">
+        <div class="sent-full">${escHtml(p.full)}</div>
+        <div class="sent-cloze">${clozeHtml}</div>
+        <div class="sent-write-line"></div>
+      </div>
+    </div>`;
+  }).join('');
+
+  container.innerHTML = `
+    <div class="sec-header sec-sent">
+      <span class="sec-label">📖 Sentences</span>
+      <span class="sec-rule"></span>
+    </div>
+    <div class="section-body sent-list">${items}</div>`;
+}
+
 // ── Generate ──────────────────────────────────────────────────────────────────
 
 function generate() {
   const title    = document.getElementById('ws-title-input').value.trim() || '⭐ My Worksheet ⭐';
   const mathOn   = document.getElementById('math-enabled').checked;
   const alphaOn  = document.getElementById('alpha-enabled').checked;
+  const sentOn   = document.getElementById('sent-enabled').checked;
 
   let maxRight    = parseInt(document.getElementById('math-max-right').value);
   let maxLeftAns  = parseInt(document.getElementById('math-max-left-ans').value);
   let maxLeftStem = parseInt(document.getElementById('math-max-left-stem').value);
   let count       = parseInt(document.getElementById('math-count').value);
+  let sentLevel   = parseInt(document.getElementById('sent-level').value);
+  let sentCount   = parseInt(document.getElementById('sent-count').value);
 
   // Sanitise inputs
   maxRight    = isNaN(maxRight)    ? 10 : Math.max(1, maxRight);
   maxLeftAns  = isNaN(maxLeftAns)  ?  5 : Math.max(1, maxLeftAns);
   maxLeftStem = isNaN(maxLeftStem) ? 12 : Math.max(1, maxLeftStem);
   count       = isNaN(count)       ? 10 : Math.min(30, Math.max(2, count));
+  sentLevel   = isNaN(sentLevel)   ?  3 : Math.min(5, Math.max(1, sentLevel));
+  sentCount   = isNaN(sentCount)   ?  5 : Math.min(12, Math.max(1, sentCount));
 
   document.getElementById('ws-title-display').textContent = title;
   refreshDeco();
@@ -215,6 +256,11 @@ function generate() {
     alphaOn ? makeAlphabet() : null,
     document.getElementById('ws-alpha')
   );
+
+  renderSentences(
+    sentOn ? makeSentenceProblems(sentLevel, sentCount) : [],
+    document.getElementById('ws-sent')
+  );
 }
 
 // ── Event listeners ───────────────────────────────────────────────────────────
@@ -225,6 +271,11 @@ document.getElementById('btn-print').addEventListener('click', () => window.prin
 // Toggle math options when checkbox changes
 document.getElementById('math-enabled').addEventListener('change', function () {
   document.getElementById('math-options').style.display = this.checked ? '' : 'none';
+});
+
+// Toggle sentence options when checkbox changes
+document.getElementById('sent-enabled').addEventListener('change', function () {
+  document.getElementById('sent-options').style.display = this.checked ? '' : 'none';
 });
 
 // Generate on page load
