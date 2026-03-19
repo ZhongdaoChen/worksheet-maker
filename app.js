@@ -6,6 +6,16 @@ function randInt(lo, hi) {
   return lo + Math.floor(Math.random() * (hi - lo + 1));
 }
 
+// Fisher-Yates shuffle - more reliable randomization
+function shuffleArray(arr) {
+  const result = [...arr];
+  for (let i = result.length - 1; i > 0; i--) {
+    const j = randInt(0, i);
+    [result[i], result[j]] = [result[j], result[i]];
+  }
+  return result;
+}
+
 // ── Decorative banner ─────────────────────────────────────────────────────────
 
 const DECO_POOL = [
@@ -189,10 +199,28 @@ function renderAlpha(items, container) {
 // Picks `count` sentences from PHONICS_SENTENCES where level <= maxLevel,
 // shuffled randomly and deduplicated.
 
+// 根据句子在级别内的位置生成图片路径
+function getSentenceImagePath(sentence) {
+  const level = sentence.level;
+
+  // 计算该句子在级别内的索引
+  const levelSentences = PHONICS_SENTENCES.filter(s => s.level === level);
+  const levelIndex = levelSentences.findIndex(s => s.full === sentence.full) + 1;
+
+  // 文件名格式：L{level}_{级别内索引}.png
+  return `sentence-images/level-${level}/L${level}_${String(levelIndex).padStart(3, '0')}.png`;
+}
+
 function makeSentenceProblems(maxLevel, count) {
   const pool = PHONICS_SENTENCES.filter(s => s.level <= maxLevel);
-  const shuffled = [...pool].sort(() => Math.random() - 0.5);
-  return shuffled.slice(0, Math.min(count, shuffled.length));
+  const shuffled = shuffleArray(pool);
+  const problems = shuffled.slice(0, Math.min(count, shuffled.length));
+
+  // 为每个句子匹配图片路径
+  return problems.map(p => ({
+    ...p,
+    imagePath: getSentenceImagePath(p)
+  }));
 }
 
 function renderSentences(problems, container) {
@@ -202,6 +230,12 @@ function renderSentences(problems, container) {
     // Replace ___ with a CSS blank span for proper width underlines
     const clozeHtml = escHtml(p.cloze)
       .replace(/___/g, '<span class="sent-blank"></span>');
+
+    // 图片 HTML
+    const imageHtml = p.imagePath
+      ? `<div class="sent-image"><img src="${p.imagePath}" alt="Sentence ${i+1}" loading="lazy" onerror="this.parentElement.style.display='none'"></div>`
+      : '';
+
     return `
     <div class="sent-item">
       <div class="sent-num">${circleNum(i + 1)}</div>
@@ -210,6 +244,7 @@ function renderSentences(problems, container) {
         <div class="sent-cloze">${clozeHtml}</div>
         <div class="sent-write-line"></div>
       </div>
+      ${imageHtml}
     </div>`;
   }).join('');
 

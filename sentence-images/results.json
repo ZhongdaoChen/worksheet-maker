@@ -1,0 +1,1910 @@
+[
+  {
+    "level": 1,
+    "levelIndex": 1,
+    "sentence": {
+      "level": 1,
+      "full": "The cat is on the mat.",
+      "cloze": "The ___ is on the mat."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_001.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/cd/20260319/448165f2/50315105-c71a-4df8-a794-6d64c387ed4b1001.png?Expires=1774517781&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=KPF1XHTlZC4lRamplSoEGk1J4BU%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 2,
+    "sentence": {
+      "level": 1,
+      "full": "I can see a big dog.",
+      "cloze": "I can see a big ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_002.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/20/20260319/448165f2/4b7c53f2-a101-423a-9e4e-3248e349426c1002.png?Expires=1774517783&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=4vXWJOFwEaFrJCVLEwymu%2FQJ9zc%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 3,
+    "sentence": {
+      "level": 1,
+      "full": "The bird sits in the tree.",
+      "cloze": "The ___ sits in the tree."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_003.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/b0/20260319/448165f2/d0b8a13b-cbd2-4703-9d08-1894144ba8121003.png?Expires=1774517786&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=1T5f6erg%2BuqMM7Z%2FVDA93l6xv5k%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 4,
+    "sentence": {
+      "level": 1,
+      "full": "She has a red bag.",
+      "cloze": "She has a red ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_004.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/91/20260319/448165f2/5fea3b73-38f5-4aa2-9494-8c20b63a59f51004.png?Expires=1774517788&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=bTk8X6GaV6DihyJliOi49U4t5yU%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 5,
+    "sentence": {
+      "level": 1,
+      "full": "A fish lives in the sea.",
+      "cloze": "A ___ lives in the sea."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_005.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/2c/20260319/448165f2/775c878d-70a9-468b-9604-19a8cc1b7e141005.png?Expires=1774517791&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=GTATff0%2FqiQc3Z4fhu7r%2FxqCjc4%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 6,
+    "sentence": {
+      "level": 1,
+      "full": "The monkey eats a banana.",
+      "cloze": "The ___ eats a banana."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_006.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/d2/20260319/448165f2/23742bb5-bffb-44dc-a268-a10d0f91e4fa1006.png?Expires=1774517793&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=KHHx1%2B5LLRF%2B9VuY3EisFNFxdbY%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 7,
+    "sentence": {
+      "level": 1,
+      "full": "My dog has a big hat.",
+      "cloze": "My ___ has a big hat."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_007.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/5b/20260319/448165f2/17608e7d-ba0b-4aa7-9de6-4c7b2cbf5fd71007.png?Expires=1774517795&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=e3LT7yQHcV4kwbY0rihsyuGy58g%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 8,
+    "sentence": {
+      "level": 1,
+      "full": "The lion is very big.",
+      "cloze": "The ___ is very big."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_008.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/f5/20260319/448165f2/714fca95-cc15-4d68-83b9-6aefd1488bf71008.png?Expires=1774517798&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=NFxP8DrnSzhhpM26GGMIlUNS%2FKQ%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 9,
+    "sentence": {
+      "level": 1,
+      "full": "A rabbit can jump very high.",
+      "cloze": "A ___ can jump very high."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_009.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/5e/20260319/448165f2/857fedd4-ff61-4be6-bef2-1e769fec01301009.png?Expires=1774517800&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=ft924Cb8pubM8om0m%2Fm5H846Igk%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 10,
+    "sentence": {
+      "level": 1,
+      "full": "The penguin lives on the ice.",
+      "cloze": "The ___ lives on the ice."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_010.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/2f/20260319/448165f2/eaa2509d-907d-4f24-bb22-11fea73dbbfe1010.png?Expires=1774517803&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=wa9aLf2ZW5ozd7HfIuTQwlvujyY%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 11,
+    "sentence": {
+      "level": 1,
+      "full": "I like to eat an apple.",
+      "cloze": "I like to eat an ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_011.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/12/20260319/448165f2/5777834f-42a9-42ed-9aec-e901c9ce1ba21011.png?Expires=1774517805&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=Wriwi1Y%2BT%2B6VUp%2FN7RXSlco4aRY%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 12,
+    "sentence": {
+      "level": 1,
+      "full": "The duck swims in the pond.",
+      "cloze": "The ___ swims in the pond."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_012.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/ca/20260319/448165f2/bf46fa2f-27bc-4fdc-b0fe-d2a98ed5ded81012.png?Expires=1774517808&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=%2F6W4pqLWsx8yKMNJoFe7tE8cJno%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 13,
+    "sentence": {
+      "level": 1,
+      "full": "A bear has soft brown fur.",
+      "cloze": "A ___ has soft brown fur."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_013.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/9d/20260319/448165f2/70931f27-485a-4272-8128-14b0c0ef810b1013.png?Expires=1774517810&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=QQjAXoLodHEWv%2FSsb28Ukq6Y1lU%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 14,
+    "sentence": {
+      "level": 1,
+      "full": "The tiger is fast and strong.",
+      "cloze": "The ___ is fast and strong."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_014.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/58/20260319/448165f2/a6d629fb-39e9-42e5-b5c7-c2576a6ed85c1014.png?Expires=1774517813&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=bzBDRQNxq4y8BaAMQPXlpNwkEHA%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 15,
+    "sentence": {
+      "level": 1,
+      "full": "She put the egg in the bowl.",
+      "cloze": "She put the ___ in the bowl."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_015.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/cb/20260319/448165f2/79eba108-60a2-466c-93b3-dc82730851fa1015.png?Expires=1774517815&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=HjGrnxnIgEcv92rC0U20USTbEUc%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 16,
+    "sentence": {
+      "level": 1,
+      "full": "The frog jumps off the log.",
+      "cloze": "The frog jumps off the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_016.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/25/20260319/448165f2/f5af29e4-e624-442a-9abe-313850e6fb541016.png?Expires=1774517817&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=RzlQYhobTnon5wZVL192LZf3wqM%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 17,
+    "sentence": {
+      "level": 1,
+      "full": "I can see the moon at night.",
+      "cloze": "I can see the ___ at night."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_017.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/cb/20260319/448165f2/1224e5ae-8243-4192-8391-7ce76b8977c51017.png?Expires=1774517820&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=SKfMZ824MjPr7njs2gFSX7iRgic%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 18,
+    "sentence": {
+      "level": 1,
+      "full": "A zebra has black and white stripes.",
+      "cloze": "A ___ has black and white stripes."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_018.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/bd/20260319/448165f2/d21c390c-c82a-42d1-9890-3d2103d46b5a1018.png?Expires=1774517822&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=EJoJasBuHfye0%2BlPJV2XIpS0JGE%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 19,
+    "sentence": {
+      "level": 1,
+      "full": "The panda eats green bamboo.",
+      "cloze": "The ___ eats green bamboo."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_019.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/d6/20260319/448165f2/89de2146-01a0-4059-b1eb-5de68179e5e01019.png?Expires=1774517825&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=TZN1382AcRmUozpLDGLJejGnkW4%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 20,
+    "sentence": {
+      "level": 1,
+      "full": "My cat sleeps on the bed.",
+      "cloze": "My ___ sleeps on the bed."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_020.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/df/20260319/448165f2/b72d8abf-c0c6-4c3d-ba07-55f17ba6c7021020.png?Expires=1774517827&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=dpJ18xVm8diixyMHEjPT2DiyGDM%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 21,
+    "sentence": {
+      "level": 1,
+      "full": "The cow gives us milk.",
+      "cloze": "The ___ gives us milk."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_021.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/f6/20260319/448165f2/d9ef6b75-cd9a-438b-a031-99575a91a1cd1021.png?Expires=1774517830&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=a9uPlCZBNzGPtegnsjB8YyGLZ4M%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 22,
+    "sentence": {
+      "level": 1,
+      "full": "A sheep has soft white wool.",
+      "cloze": "A ___ has soft white wool."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_022.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/55/20260319/448165f2/3547c768-a4b4-4043-92c2-b6b3ec9a06361022.png?Expires=1774517832&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=rXOKsmlQc7YCLyBTEAFj2EGLmRE%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 23,
+    "sentence": {
+      "level": 1,
+      "full": "The rooster wakes us up.",
+      "cloze": "The ___ wakes us up."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_023.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/9e/20260319/448165f2/ac83521d-30f2-462f-aa17-d0028964e3471023.png?Expires=1774517834&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=2kWXcK6GmRO1%2FSX%2BxZJleNRbE64%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 24,
+    "sentence": {
+      "level": 1,
+      "full": "I see a butterfly on the flower.",
+      "cloze": "I see a ___ on the flower."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_024.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/74/20260319/448165f2/24e3b11e-b528-410c-b0a8-ffc4c2a7cbf51024.png?Expires=1774517837&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=nnK2lSkpFf3slXKsKPIRIIKK4aA%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 25,
+    "sentence": {
+      "level": 1,
+      "full": "The snake is long and green.",
+      "cloze": "The ___ is long and green."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_025.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/be/20260319/448165f2/4e5aef07-411b-4b38-90be-e53f566159e51025.png?Expires=1774517839&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=A%2FVeqDWEylZpM7p8uuBOl3EmqUQ%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 26,
+    "sentence": {
+      "level": 1,
+      "full": "A turtle walks very slow.",
+      "cloze": "A ___ walks very slow."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_026.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/10/20260319/448165f2/2da66c8a-a8d8-4d91-b84c-2bc38608f02e1026.png?Expires=1774517842&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=pAaijvJOETU3L9SLSdwEHh7uCsY%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 27,
+    "sentence": {
+      "level": 1,
+      "full": "The elephant has a long nose.",
+      "cloze": "The ___ has a long nose."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_027.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/79/20260319/448165f2/78f31492-f467-46b0-95f2-4d00f0840e871027.png?Expires=1774517844&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=rSkBLh6wyzgOIALFAQltpjGdvwg%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 28,
+    "sentence": {
+      "level": 1,
+      "full": "I like to feed the ducks.",
+      "cloze": "I like to feed the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_028.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/db/20260319/448165f2/f97caacb-01dc-48ce-90b2-75176e078af51028.png?Expires=1774517847&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=VXFjkDVWuHq9CQKbluNiIVY%2FImc%3D"
+  },
+  {
+    "level": 1,
+    "levelIndex": 29,
+    "sentence": {
+      "level": 1,
+      "full": "The giraffe is very tall.",
+      "cloze": "The ___ is very tall."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-1/L1_029.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/4e/20260319/448165f2/0e602e2c-d0dc-4034-9d27-a5fd4422805e1029.png?Expires=1774517849&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=yf6hWUiWEvz30g%2FBedbFFgLpFWE%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 1,
+    "sentence": {
+      "level": 2,
+      "full": "The fat cat sat on the mat.",
+      "cloze": "The fat ___ sat on the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_001.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/d1/20260319/448165f2/7a227fa7-8bf4-4c71-87de-a5d117abd12f1001.png?Expires=1774517851&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=%2BtzHyIAt7qnekZT%2BTf3K2zlJ2fU%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 2,
+    "sentence": {
+      "level": 2,
+      "full": "A big bug is in the jug.",
+      "cloze": "A big ___ is in the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_002.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/c0/20260319/448165f2/777c2b67-d7ee-478d-b676-1c5dd16037351002.png?Expires=1774517854&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=HAxuuCxN8gN%2FSZgwFBEUmQ6I358%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 3,
+    "sentence": {
+      "level": 2,
+      "full": "The hen has ten eggs in her nest.",
+      "cloze": "The ___ has ten eggs in her ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_003.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/2f/20260319/448165f2/04a4798c-76a0-4f26-9052-e894e0c7596f1003.png?Expires=1774517856&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=deC9q3nLuPAqjELVCGkB3CPURv4%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 4,
+    "sentence": {
+      "level": 2,
+      "full": "I put the pan on the hot pot.",
+      "cloze": "I put the ___ on the hot ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_004.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/66/20260319/448165f2/29c84158-5344-4a32-b7b0-bfcfe17faf7a1004.png?Expires=1774517859&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=OHAVkT7BimfUaxgxxbhRFFrwJq4%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 5,
+    "sentence": {
+      "level": 2,
+      "full": "The dog dug a hole in the mud.",
+      "cloze": "The dog dug a hole in the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_005.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/72/20260319/448165f2/3e1c04e8-54e5-4d69-b742-029101f523b51005.png?Expires=1774517861&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=w1V5cTGZew9%2BFklqaPWhLSDrfiY%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 6,
+    "sentence": {
+      "level": 2,
+      "full": "A red hen sat on the bed.",
+      "cloze": "A ___ hen sat on the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_006.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/80/20260319/448165f2/5cbd9ca4-6b4f-494a-b445-cf5eb6c6a2331006.png?Expires=1774517864&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=njvm7kUhaJ3xKftOmtxDC5%2BUtCc%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 7,
+    "sentence": {
+      "level": 2,
+      "full": "The rat ran to get the jam.",
+      "cloze": "The ___ ran to get the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_007.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/f1/20260319/448165f2/6c42a115-00c1-404c-aad7-56caff1a523a1007.png?Expires=1774517866&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=ItXoJu3fdEmtlJE%2BYoOG7gQked0%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 8,
+    "sentence": {
+      "level": 2,
+      "full": "I can hop and skip on one leg.",
+      "cloze": "I can ___ and skip on one leg."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_008.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/89/20260319/448165f2/34ab0e66-867b-4e84-8ad5-090a69a3675e1008.png?Expires=1774517868&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=kpMKdPch3PkAAoowHQTfdntuGNE%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 9,
+    "sentence": {
+      "level": 2,
+      "full": "The pup ran in the mud.",
+      "cloze": "The ___ ran in the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_009.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/ca/20260319/448165f2/aee42d56-805a-4f52-8e41-5bc3fa0f23911009.png?Expires=1774517871&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=QgcnT%2BcVZAtlz5KSh%2FfRNPPZ7FE%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 10,
+    "sentence": {
+      "level": 2,
+      "full": "She cut the bun with a big knife.",
+      "cloze": "She cut the ___ with a big knife."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_010.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/6d/20260319/448165f2/1c5c4599-b3e1-43df-a435-2114ab459dc61010.png?Expires=1774517873&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=bm01HhRe1r5GKdjoGTT3OmNRRTQ%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 11,
+    "sentence": {
+      "level": 2,
+      "full": "I can fit this lid on the pot.",
+      "cloze": "I can fit this ___ on the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_011.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/de/20260319/448165f2/b075ef89-9edc-4293-a24b-59b5b02bfc881011.png?Expires=1774517876&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=%2Bl3I3O3w53XXJpqnJw3cqfi1%2BgA%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 12,
+    "sentence": {
+      "level": 2,
+      "full": "The mop fell into the big tub.",
+      "cloze": "The ___ fell into the big ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_012.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/6d/20260319/448165f2/87a64b7a-61f2-4aed-97d0-cbc1ddc708661012.png?Expires=1774517878&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=%2BSFszvzo9KA6tqZYAgWQNo264zU%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 13,
+    "sentence": {
+      "level": 2,
+      "full": "He got the map from his bag.",
+      "cloze": "He got the ___ from his bag."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_013.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/1f/20260319/448165f2/1f8e8d04-3442-4416-a781-cde6e66652c81013.png?Expires=1774517881&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=jIU8dSi6KqADhiDaDzQU%2FnbrESM%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 14,
+    "sentence": {
+      "level": 2,
+      "full": "Six big ants ran up the hill.",
+      "cloze": "___ big ants ran up the hill."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_014.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/20/20260319/448165f2/9afde5e9-f2fa-4309-a2da-9d8917dad5b71014.png?Expires=1774517883&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=WZaodwPODNquJLOT5L6bDNPRlcU%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 15,
+    "sentence": {
+      "level": 2,
+      "full": "The cub sat next to its mum.",
+      "cloze": "The ___ sat next to its mum."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_015.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/0f/20260319/448165f2/93c89f55-4d1d-4e4d-b171-fd4fe7df6d601015.png?Expires=1774517886&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=G6F8EBE%2F5kNPu7eeQmMp2XsEMPg%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 16,
+    "sentence": {
+      "level": 2,
+      "full": "She fed the hens on the farm.",
+      "cloze": "She fed the ___ on the farm."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_016.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/eb/20260319/448165f2/910a7337-0079-47df-9e1a-d100ec1052371016.png?Expires=1774517888&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=1QG73fkj3OD5dC1vq5%2FdaciciQg%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 17,
+    "sentence": {
+      "level": 2,
+      "full": "A fish can swim but not run.",
+      "cloze": "A ___ can swim but not run."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_017.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/bb/20260319/448165f2/5c15ecf5-679a-40e3-8150-e018f84cb4a51017.png?Expires=1774517890&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=azuT9m1CHGWONCssFGsWtvWPE6Q%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 18,
+    "sentence": {
+      "level": 2,
+      "full": "The kid hid the lid in the box.",
+      "cloze": "The ___ hid the ___ in the box."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_018.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/80/20260319/448165f2/f1352ff6-d51b-4b3c-a97d-0d3ddae79a291018.png?Expires=1774517893&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=XoHJo2Z%2FTWLEK777ePH8bg%2F1Ycw%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 19,
+    "sentence": {
+      "level": 2,
+      "full": "Mum put jam on the hot bun.",
+      "cloze": "Mum put ___ on the hot ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_019.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/a2/20260319/448165f2/bb4bc296-a4c4-43e7-99bf-ad5df4157f141019.png?Expires=1774517895&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=FlopVXwU%2BPsUzqRu3tRi0Z%2BvDJM%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 20,
+    "sentence": {
+      "level": 2,
+      "full": "The cat sat on a fat mat.",
+      "cloze": "The ___ sat on a fat ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_020.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/52/20260319/448165f2/de9ed69b-74fb-44b5-9cfd-a2ed38927cf01020.png?Expires=1774517898&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=XvzbW7juOLdHH0UVbjuUWNFV1Ec%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 21,
+    "sentence": {
+      "level": 2,
+      "full": "A dog can dig a deep hole.",
+      "cloze": "A ___ can dig a deep ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_021.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/3b/20260319/448165f2/11e38015-a742-4509-abd5-d3ec91023cd01021.png?Expires=1774517900&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=chU%2BzvIm0AzMaI6G%2Fr%2Bgi14srjk%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 22,
+    "sentence": {
+      "level": 2,
+      "full": "The bug flew up in the air.",
+      "cloze": "The ___ flew up in the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_022.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/e0/20260319/448165f2/cc476dfe-0b8b-4409-9efe-3973e665064d1022.png?Expires=1774517903&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=kv4yVF9ajaUFZ5ilsdgunR6H5ac%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 23,
+    "sentence": {
+      "level": 2,
+      "full": "She put the hat on her head.",
+      "cloze": "She put the ___ on her head."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_023.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/41/20260319/448165f2/ab71990e-33b7-4a90-b214-42bf888af9471023.png?Expires=1774517905&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=jzqYW5f7Ff5V0COP5acRNmJSb%2FM%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 24,
+    "sentence": {
+      "level": 2,
+      "full": "The pig rolled in the mud.",
+      "cloze": "The ___ rolled in the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_024.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/8f/20260319/448165f2/0755eaca-b9ac-4522-a9d0-c5f22390190c1024.png?Expires=1774517908&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=ylWNF8TOU78o4gj7Ot0Usa50vb4%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 25,
+    "sentence": {
+      "level": 2,
+      "full": "I can see a ship on the sea.",
+      "cloze": "I can see a ___ on the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_025.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/6c/20260319/448165f2/79750011-3303-47ca-9cfa-578f5ef142c61025.png?Expires=1774517910&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=FDVAwq%2B23Fqou8ri0eFBsAObg3k%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 26,
+    "sentence": {
+      "level": 2,
+      "full": "The fox ran into the box.",
+      "cloze": "The ___ ran into the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_026.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/6e/20260319/448165f2/fcfe5da2-6374-4553-b07c-6c74c4d71acf1026.png?Expires=1774517912&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=bGGCa9EWDACXgGjgas4VRG4NywA%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 27,
+    "sentence": {
+      "level": 2,
+      "full": "A hen lays eggs in the nest.",
+      "cloze": "A ___ lays eggs in the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_027.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/dc/20260319/448165f2/a1c65e8f-da3c-4bd9-a617-07b6b5564e2a1027.png?Expires=1774517915&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=FKAh5Q8USyMSGkG8dMJwLaU7aOc%3D"
+  },
+  {
+    "level": 2,
+    "levelIndex": 28,
+    "sentence": {
+      "level": 2,
+      "full": "He hit the ball with a bat.",
+      "cloze": "He hit the ball with a ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-2/L2_028.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/91/20260319/448165f2/a9b898b7-27b9-4480-a053-abf9caf0c95a1028.png?Expires=1774517917&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=hxFnm1O1sHbvrXBdEzR2PWvGYJ4%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 1,
+    "sentence": {
+      "level": 3,
+      "full": "She can ride her bike to the lake.",
+      "cloze": "She can ride her ___ to the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_001.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/d7/20260319/448165f2/281114db-fc2c-41cb-8a4c-8fc0ac6fbfb41001.png?Expires=1774517920&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=ecjb0EtEesAhhYZSLNhUjHPwZes%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 2,
+    "sentence": {
+      "level": 3,
+      "full": "The cake is on the big white plate.",
+      "cloze": "The ___ is on the big white plate."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_002.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/29/20260319/448165f2/0b1c604d-726c-4224-bc4d-f72f83d55ba21002.png?Expires=1774517922&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=DcHeLR5EqmBDwOAkl9wi4IZociU%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 3,
+    "sentence": {
+      "level": 3,
+      "full": "He flew his kite in the blue sky.",
+      "cloze": "He flew his ___ in the blue ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_003.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/4c/20260319/448165f2/ca47620d-8d9d-4429-8159-efb33779c6a11003.png?Expires=1774517925&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=mmijeSMYb2l7Xr5iGGmhiR1aokc%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 4,
+    "sentence": {
+      "level": 3,
+      "full": "The rain fell on the green lane.",
+      "cloze": "The ___ fell on the green lane."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_004.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/00/20260319/448165f2/0419ec14-e27a-44e5-a29e-41ea4d689d411004.png?Expires=1774517927&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=yRM1iJHNNPaqIrN491U1MmYF718%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 5,
+    "sentence": {
+      "level": 3,
+      "full": "We saw a bee near the rose tree.",
+      "cloze": "We saw a ___ near the rose tree."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_005.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/e4/20260319/448165f2/16ba4cd8-93a6-469d-aa7c-51c479839d071005.png?Expires=1774517929&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=RLeRvEd6TvSe10c12U5NLRzz4UY%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 6,
+    "sentence": {
+      "level": 3,
+      "full": "A snail left a trail in the rain.",
+      "cloze": "A snail left a ___ in the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_006.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/d8/20260319/448165f2/54d33e17-dd5b-4a96-a0d9-af48f29d583b1006.png?Expires=1774517932&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=kuMz17y3LRmBjOVwC8n04vc87Xw%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 7,
+    "sentence": {
+      "level": 3,
+      "full": "She ate meat and peas for lunch.",
+      "cloze": "She ate ___ and peas for lunch."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_007.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/11/20260319/448165f2/9333f99b-cbad-40c3-97c9-b40939b4b8d11007.png?Expires=1774517934&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=vJ7FPemk84iea8oLES492rFCTBM%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 8,
+    "sentence": {
+      "level": 3,
+      "full": "The goat sat by the road.",
+      "cloze": "The ___ sat by the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_008.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/38/20260319/448165f2/999864be-98ab-46b2-8748-446447ea15671008.png?Expires=1774517937&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=qKYVpYEI6Z5sfIJVHex9i8OnZ%2BE%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 9,
+    "sentence": {
+      "level": 3,
+      "full": "I can see the moon shine on the lake.",
+      "cloze": "I can see the ___ shine on the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_009.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/4d/20260319/448165f2/0513ce27-4800-4c6d-9d49-df78f0d8c3691009.png?Expires=1774517939&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=Sf9B4AaudziCksSUnfhKtBzronQ%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 10,
+    "sentence": {
+      "level": 3,
+      "full": "He woke up at nine and ate a plum.",
+      "cloze": "He woke up at ___ and ate a plum."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_010.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/a3/20260319/448165f2/d86ef835-23d7-4a12-8995-b27f6158ddc01010.png?Expires=1774517942&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=eGHehD2SoCbtrLaWTm5Q0in%2Fon0%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 11,
+    "sentence": {
+      "level": 3,
+      "full": "The leaf fell from the big tree.",
+      "cloze": "The ___ fell from the big tree."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_011.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/72/20260319/448165f2/3c71381e-3109-4107-beba-bd7b6ff2c7b81011.png?Expires=1774517944&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=fI%2BbHAgqZl%2Bno6JiOdzmiRGoQzg%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 12,
+    "sentence": {
+      "level": 3,
+      "full": "She made a cute toy for the baby.",
+      "cloze": "She made a ___ toy for the baby."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_012.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/df/20260319/448165f2/c84f1f74-a4ab-42dd-ae6b-9beda54338da1012.png?Expires=1774517947&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=7KTEVRC5UEnVSFiRfGwOVwg0qYc%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 13,
+    "sentence": {
+      "level": 3,
+      "full": "A wave hit the side of the boat.",
+      "cloze": "A ___ hit the side of the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_013.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/74/20260319/448165f2/a6eccd46-eb9c-431a-b1ac-27f94f9e16ce1013.png?Expires=1774517949&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=Qki7p70toTApDge8HmcPm7x%2FxhY%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 14,
+    "sentence": {
+      "level": 3,
+      "full": "The boy plays in the hay all day.",
+      "cloze": "The boy plays in the ___ all day."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_014.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/cf/20260319/448165f2/9e0e0c50-4e82-472f-9f62-545d1037da581014.png?Expires=1774517951&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=kDjK6Vvjx6A%2Fmt0COx8ulU7V3Vg%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 15,
+    "sentence": {
+      "level": 3,
+      "full": "We saw five bees in the rose bush.",
+      "cloze": "We saw ___ bees in the rose bush."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_015.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/9c/20260319/448165f2/3a74f741-b2fd-4063-a0fa-05b792188cdd1015.png?Expires=1774517954&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=ya%2BxCbEQQjFtM3aV7yAiUXcSlVk%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 16,
+    "sentence": {
+      "level": 3,
+      "full": "She skates on the ice every day.",
+      "cloze": "She ___ on the ice every day."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_016.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/46/20260319/448165f2/059baec7-cadf-4e82-b956-cf80bf457e5e1016.png?Expires=1774517957&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=Y4VbXgdsw7uhme2sWhhoQ6Fy4bg%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 17,
+    "sentence": {
+      "level": 3,
+      "full": "The snake is long and lives in a hole.",
+      "cloze": "The ___ is long and lives in a hole."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_017.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/38/20260319/448165f2/64ac1930-c5f7-4f8d-b82e-fc71a548f8d21017.png?Expires=1774517959&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=BXZe%2Fe0XBO1Vo8rssxFBjOAx23I%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 18,
+    "sentence": {
+      "level": 3,
+      "full": "A blue boat sailed across the sea.",
+      "cloze": "A ___ boat sailed across the sea."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_018.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/b3/20260319/448165f2/feeb9a1c-4126-4b13-a00a-b762ad96b12e1018.png?Expires=1774517962&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=aBrutba2O%2Fu8eI27umCcWsNRDW0%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 19,
+    "sentence": {
+      "level": 3,
+      "full": "He gave his mum a red rose.",
+      "cloze": "He gave his mum a red ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_019.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/d4/20260319/448165f2/a791bf75-75f5-420b-ab90-dd1e61f6a3fb1019.png?Expires=1774517964&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=PoAvUafFOX564zJpMrEQohd7fhA%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 20,
+    "sentence": {
+      "level": 3,
+      "full": "The seed grew into a big oak tree.",
+      "cloze": "The ___ grew into a big oak tree."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_020.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/bb/20260319/448165f2/ba72c7d6-924e-4511-9dbc-672cc76c11451020.png?Expires=1774517966&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=2g%2BKepPH6vSOws4%2BKJpuqCQl%2Fr0%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 21,
+    "sentence": {
+      "level": 3,
+      "full": "I like to spy on birds in the sky.",
+      "cloze": "I like to ___ on birds in the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_021.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/3e/20260319/448165f2/0851600f-9fba-4941-88a2-613566c75af81021.png?Expires=1774517969&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=o2eOc0cJOJeiI3%2BTG9aEOE098T0%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 22,
+    "sentence": {
+      "level": 3,
+      "full": "She put the pie on the window ledge.",
+      "cloze": "She put the ___ on the window ledge."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_022.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/00/20260319/448165f2/ddad22ca-5256-4668-b188-4a5baf37bc661022.png?Expires=1774517971&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=%2B1w5g2d999gdk0OlN1XuIB0SA3Q%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 23,
+    "sentence": {
+      "level": 3,
+      "full": "The glue on the tube is very sticky.",
+      "cloze": "The ___ on the tube is very sticky."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_023.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/26/20260319/448165f2/ff91ca1a-98cd-4f47-9ff1-a8d58f721af41023.png?Expires=1774517974&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=mvYWe1hz01WbYJPZZxGikBa%2B%2F3c%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 24,
+    "sentence": {
+      "level": 3,
+      "full": "My dad said he was happy and proud.",
+      "cloze": "My dad said he was ___ and proud."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_024.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/2e/20260319/448165f2/fcab2802-d37b-4eaf-8e8e-2185db21dd671024.png?Expires=1774517976&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=BIewOCSTSrZ4p3K5VSeIiowbSEQ%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 25,
+    "sentence": {
+      "level": 3,
+      "full": "She found a gold coin in the sand.",
+      "cloze": "She found a gold ___ in the sand."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_025.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/de/20260319/448165f2/ae9af5a6-e3f0-41c2-8956-a6635b7cfca61025.png?Expires=1774517979&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=rm7WMTd%2BfCdFxFCHKf%2BoBH8UZ04%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 26,
+    "sentence": {
+      "level": 3,
+      "full": "The train goes down the track.",
+      "cloze": "The ___ goes down the track."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_026.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/9a/20260319/448165f2/0ec957cf-9138-470d-995d-3fda77b3bd041026.png?Expires=1774517981&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=dUGtRwxHDFIREdQ4b3biHUkiayk%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 27,
+    "sentence": {
+      "level": 3,
+      "full": "A mouse lives in a little house.",
+      "cloze": "A ___ lives in a little house."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_027.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/49/20260319/448165f2/fc7e3809-dc08-4938-9cea-5332c5ea83061027.png?Expires=1774517983&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=ZEst%2BBY%2FMG5geJt6ZMAnER1YB4w%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 28,
+    "sentence": {
+      "level": 3,
+      "full": "The rain makes the flowers grow.",
+      "cloze": "The ___ makes the flowers grow."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_028.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/9c/20260319/448165f2/83e90741-4315-4b06-be29-bbaedfe71c531028.png?Expires=1774517986&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=EGgh0rCBtL8w1nsaUBJNzz2wvn4%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 29,
+    "sentence": {
+      "level": 3,
+      "full": "She wrote a letter to her friend.",
+      "cloze": "She ___ a letter to her friend."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_029.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/0f/20260319/448165f2/4bcada67-e6a5-4948-a3ea-65d73bb4431b1029.png?Expires=1774517988&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=pED1m4qR1dhAXKnkTwflfD46m2c%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 30,
+    "sentence": {
+      "level": 3,
+      "full": "The light shines bright at night.",
+      "cloze": "The ___ shines bright at night."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_030.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/7a/20260319/448165f2/194e2029-d3b9-4caf-9f9a-efda6acab80e1030.png?Expires=1774517991&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=7AloXtL2Ln%2FgwcPt89JLOiD%2B73M%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 31,
+    "sentence": {
+      "level": 3,
+      "full": "I like to play in the snow.",
+      "cloze": "I like to play in the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_031.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/27/20260319/448165f2/ad97d8c1-a170-4420-a15f-15ea8e6d48391031.png?Expires=1774517993&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=uCqiJjfJs2aw2Gg7hphnjbtmlAg%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 32,
+    "sentence": {
+      "level": 3,
+      "full": "The cow says moo all day long.",
+      "cloze": "The ___ says moo all day long."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_032.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/3b/20260319/448165f2/5f1b5ff8-7158-406d-bc4c-58a4927a23a31032.png?Expires=1774517996&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=FvkechccO2%2FjbUg4e9%2FVDQR9aRY%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 33,
+    "sentence": {
+      "level": 3,
+      "full": "He threw the ball very far.",
+      "cloze": "He ___ the ball very far."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_033.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/a1/20260319/448165f2/03fdc3c3-e455-47a1-b79a-be6f963d67ac1033.png?Expires=1774517998&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=nwyqKTHTXmMNnjZWw7dqTMg2Q2Q%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 34,
+    "sentence": {
+      "level": 3,
+      "full": "The bird flew over the tree.",
+      "cloze": "The ___ flew over the tree."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_034.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/23/20260319/448165f2/7dfdd174-5f67-422f-86f3-d6ac904713401034.png?Expires=1774518000&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=7PLuOEUbBfb7NQ0htgtqDe87iZ4%3D"
+  },
+  {
+    "level": 3,
+    "levelIndex": 35,
+    "sentence": {
+      "level": 3,
+      "full": "She has a cute little puppy.",
+      "cloze": "She has a ___ little puppy."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-3/L3_035.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/70/20260319/448165f2/b8198f67-69c1-4237-b136-c69a6a4025041035.png?Expires=1774518003&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=kN1ATzMRzxrjnBXY4pTgroC3E8I%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 1,
+    "sentence": {
+      "level": 4,
+      "full": "The crab ran across the wet sand.",
+      "cloze": "The ___ ran across the wet sand."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_001.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/94/20260319/448165f2/645d28c3-0a73-43c7-8deb-651b15ebd0aa1001.png?Expires=1774518005&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=BEX9W5%2B8LC24bCWhppAW3uLNArQ%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 2,
+    "sentence": {
+      "level": 4,
+      "full": "A frog sat on a green log by the pond.",
+      "cloze": "A ___ sat on a green log by the pond."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_002.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/ed/20260319/448165f2/c0060db0-74e9-4ca8-8e67-ce48e17ca5fb1002.png?Expires=1774518008&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=QIRA2FjKNnzf8VCvcIDChiKRec8%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 3,
+    "sentence": {
+      "level": 4,
+      "full": "She brushed her hair before school.",
+      "cloze": "She ___ her hair before ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_003.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/3c/20260319/448165f2/efddc551-eb29-4dd2-aa1a-b109006185121003.png?Expires=1774518010&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=ONX0ofvWcrqn5twtCGj7GapyKic%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 4,
+    "sentence": {
+      "level": 4,
+      "full": "The clock on the wall is slow.",
+      "cloze": "The ___ on the wall is slow."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_004.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/cf/20260319/448165f2/cec61ac2-2113-4b4d-9a60-44aaf2142f151004.png?Expires=1774518013&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=QA2u9fTAJgGJJTNJNAU33Gvk4Mw%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 5,
+    "sentence": {
+      "level": 4,
+      "full": "He drove the truck down the long road.",
+      "cloze": "He drove the ___ down the long road."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_005.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/c1/20260319/448165f2/24c59d65-1881-4b89-b43e-f3b08496bfd41005.png?Expires=1774518015&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=uBHA%2FSYKX7Rh64diWIlSjudYgdM%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 6,
+    "sentence": {
+      "level": 4,
+      "full": "A big black snake slept in the grass.",
+      "cloze": "A big black ___ slept in the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_006.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/92/20260319/448165f2/6ce0df55-ec5b-46e0-bea7-d1a72f7beba51006.png?Expires=1774518018&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=Tt1qDlCA7KD%2BwhIKaX1cSmiKq4M%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 7,
+    "sentence": {
+      "level": 4,
+      "full": "The white whale swam in the deep sea.",
+      "cloze": "The white ___ swam in the deep sea."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_007.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/3d/20260319/448165f2/7fd32875-2fee-42ce-9fe4-ea5f4c2ddd271007.png?Expires=1774518020&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=OMXVeIZQZjNLjbCdUKe67AGmIJA%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 8,
+    "sentence": {
+      "level": 4,
+      "full": "She played with the drum in the band.",
+      "cloze": "She played with the ___ in the band."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_008.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/04/20260319/448165f2/cf5fa171-c7e8-4bde-b8cf-39f05e294f8f1008.png?Expires=1774518022&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=QGBGkqqHX2EJWgEnXO%2FFo3d5bBg%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 9,
+    "sentence": {
+      "level": 4,
+      "full": "The queen wears a shiny crown.",
+      "cloze": "The ___ wears a shiny crown."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_009.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/3e/20260319/448165f2/3e7be759-bc47-41ab-9811-63afc7d880f51009.png?Expires=1774518025&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=0yGGjPXUzkdY1RQ%2BDf8wlkDJ2yw%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 10,
+    "sentence": {
+      "level": 4,
+      "full": "He caught a fish with a long stick.",
+      "cloze": "He ___ a fish with a long stick."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_010.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/1a/20260319/448165f2/899727ea-c5ef-44cb-ba4b-7be6c33d481f1010.png?Expires=1774518027&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=TXK%2B%2BRwqPftys9mEI0%2BOw0fCd%2BM%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 11,
+    "sentence": {
+      "level": 4,
+      "full": "A green frog sat on the flat rock.",
+      "cloze": "A green ___ sat on the flat rock."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_011.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/ef/20260319/448165f2/13579cbb-5338-409f-9f6d-c471d0fafd921011.png?Expires=1774518030&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=NxtNIWLeCmDgk2rGkMoh5LMLFEs%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 12,
+    "sentence": {
+      "level": 4,
+      "full": "She had lunch with her mother.",
+      "cloze": "She had ___ with her ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_012.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/6a/20260319/448165f2/cfb323e8-9c7c-4635-98d8-784b79374e661012.png?Expires=1774518032&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=q1q6z1nlwHwWQbvZgnGeygHebxI%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 13,
+    "sentence": {
+      "level": 4,
+      "full": "The ship sailed past the rocky cliff.",
+      "cloze": "The ___ sailed past the rocky cliff."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_013.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/97/20260319/448165f2/b77011b7-b050-4eaa-9d1e-596138cdfbee1013.png?Expires=1774518035&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=dSJcO7r046bLvOoGZn8O%2Bl2laMI%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 14,
+    "sentence": {
+      "level": 4,
+      "full": "He wore a blue dress to the party.",
+      "cloze": "He wore a blue ___ to the party."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_014.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/51/20260319/448165f2/56690ce7-9514-470b-b99a-48fe92b794e81014.png?Expires=1774518037&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=9hriatDOFrVFY35DXb0QrGS1qQM%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 15,
+    "sentence": {
+      "level": 4,
+      "full": "The duck swam next to its three chicks.",
+      "cloze": "The ___ swam next to its three ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_015.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/39/20260319/448165f2/b14e9cff-dfec-435f-bd9e-7b54a79694301015.png?Expires=1774518040&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=lxpOGiwATjAQWnqW9B9fhMAy%2FzY%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 16,
+    "sentence": {
+      "level": 4,
+      "full": "A strong wind blew the flag away.",
+      "cloze": "A strong ___ blew the ___ away."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_016.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/b1/20260319/448165f2/51e0caad-c878-4b2a-97ec-d7904fbe2e4b1016.png?Expires=1774518042&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=7WqSTDTwIYyprqDfEm5ZPYfmxGI%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 17,
+    "sentence": {
+      "level": 4,
+      "full": "She planted a small tree in the spring.",
+      "cloze": "She planted a small ___ in the spring."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_017.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/39/20260319/448165f2/e6175821-1d7c-4318-bcc1-af58360072ea1017.png?Expires=1774518044&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=uaxj0MLrSlP%2BdQd8wrLuHEpfiBI%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 18,
+    "sentence": {
+      "level": 4,
+      "full": "The smoke rose from the chimney.",
+      "cloze": "The ___ rose from the chimney."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_018.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/b9/20260319/448165f2/5f12d3c8-f9fc-459f-94e4-0f4cb50df9371018.png?Expires=1774518047&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=hdQt5SUNHOKGq%2BwHPvV4T5u3rjw%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 19,
+    "sentence": {
+      "level": 4,
+      "full": "He brushed his teeth three times a day.",
+      "cloze": "He brushed his ___ three times a day."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_019.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/d1/20260319/448165f2/f986a1fd-f259-40dd-af36-03908bed6b4d1019.png?Expires=1774518049&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=SaT5xl5dSuUNsrIlxc7MnZTQL%2BY%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 20,
+    "sentence": {
+      "level": 4,
+      "full": "A little chick pecked at the seed.",
+      "cloze": "A little ___ pecked at the seed."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_020.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/43/20260319/448165f2/36d0cdc0-434f-42fe-9a23-890e9abd26fe1020.png?Expires=1774518052&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=BFogAZrTr%2B1EIK0zbi15gzrmu4Q%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 21,
+    "sentence": {
+      "level": 4,
+      "full": "She stepped on the glass by mistake.",
+      "cloze": "She stepped on the ___ by mistake."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_021.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/6b/20260319/448165f2/be73731c-4998-4bdb-9197-3b8a179c268f1021.png?Expires=1774518054&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=%2BujfzYrGJHo6w9Qdl1o6GNieXEY%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 22,
+    "sentence": {
+      "level": 4,
+      "full": "He stamped his feet and clapped his hands.",
+      "cloze": "He ___ his feet and clapped his hands."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_022.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/65/20260319/448165f2/9f5825f8-6a71-4e99-8611-5c5f5804531b1022.png?Expires=1774518057&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=EFqui1jzKtfiDuC2K3%2BBz0BvuM8%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 23,
+    "sentence": {
+      "level": 4,
+      "full": "The dolphin swam fast in the blue sea.",
+      "cloze": "The ___ swam fast in the blue sea."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_023.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/75/20260319/448165f2/3036636d-e3da-411c-9b0c-bbedd13669c01023.png?Expires=1774518059&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=k5Fh2voqR12A7Ycgv%2FLiaraatwI%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 24,
+    "sentence": {
+      "level": 4,
+      "full": "A squid lives deep in the dark ocean.",
+      "cloze": "A ___ lives deep in the dark ocean."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_024.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/1e/20260319/448165f2/2e2ecf95-f6fe-4cad-889d-45e3defea9e71024.png?Expires=1774518062&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=stzqYBVMiYsCatn4JLCle2fL2fU%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 25,
+    "sentence": {
+      "level": 4,
+      "full": "The black cat slept on the mat.",
+      "cloze": "The ___ cat slept on the mat."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_025.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/dd/20260319/448165f2/d12e405c-8039-4c2a-b649-f2c5b8db48c21025.png?Expires=1774518064&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=8CNo9R%2BgKYwPGdr5hCc7wRr7keQ%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 26,
+    "sentence": {
+      "level": 4,
+      "full": "She likes to swim in the pool.",
+      "cloze": "She likes to ___ in the pool."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_026.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/d6/20260319/448165f2/6299ee2b-578a-47f8-9034-fd8a1d2d2daf1026.png?Expires=1774518066&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=egDjHvMhiVi4Mwsf1wZ7hf%2F0sCM%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 27,
+    "sentence": {
+      "level": 4,
+      "full": "The train stopped at the station.",
+      "cloze": "The ___ stopped at the station."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_027.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/23/20260319/448165f2/f4211f48-6be2-454a-8612-07c172ff2d341027.png?Expires=1774518069&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=17gmk%2FdoaymM3HDIMPQ%2FdBuhFZ4%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 28,
+    "sentence": {
+      "level": 4,
+      "full": "He threw the ball very high.",
+      "cloze": "He ___ the ball very high."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_028.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/b2/20260319/448165f2/bfe9b67f-bfc3-4763-9eeb-22125258a77e1028.png?Expires=1774518071&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=L7RGFluwWtJmyk4sAjGFmeIMcos%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 29,
+    "sentence": {
+      "level": 4,
+      "full": "A frog can jump very far.",
+      "cloze": "A ___ can jump very far."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_029.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/cc/20260319/448165f2/4327d513-cd99-411b-ba3c-5e4e6ef746f21029.png?Expires=1774518074&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=cMRYN7S4nRlXUYhr8RfF%2BIh8nC0%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 30,
+    "sentence": {
+      "level": 4,
+      "full": "The white snow fell all night.",
+      "cloze": "The white ___ fell all night."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_030.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/bc/20260319/448165f2/b970efbd-56c7-40aa-be3a-788740b16cc31030.png?Expires=1774518076&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=smNTPfiYw79Mp028lnaUjPyHupk%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 31,
+    "sentence": {
+      "level": 4,
+      "full": "She clapped her hands with joy.",
+      "cloze": "She ___ her hands with joy."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_031.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/a5/20260319/448165f2/f2d5d3af-3cd7-44c9-9fc5-28b2a324ba1f1031.png?Expires=1774518079&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=KDmt6nVMeVgCyOYbaTFs0aDMv%2Fg%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 32,
+    "sentence": {
+      "level": 4,
+      "full": "The truck drove down the street.",
+      "cloze": "The ___ drove down the street."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_032.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/23/20260319/448165f2/b9fdd204-00dd-4be3-ac6d-f90a229913761032.png?Expires=1774518081&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=1ierE7rBevffJwhIspwTgoZnJO4%3D"
+  },
+  {
+    "level": 4,
+    "levelIndex": 33,
+    "sentence": {
+      "level": 4,
+      "full": "I like to watch the birds fly.",
+      "cloze": "I like to ___ the birds fly."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-4/L4_033.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/c6/20260319/448165f2/b555c422-3848-4c0c-884f-5085994464771033.png?Expires=1774518084&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=1XKvMIYDrJsD36jgUOXfUdpGUrA%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 1,
+    "sentence": {
+      "level": 5,
+      "full": "The nurse cared for the sick child.",
+      "cloze": "The ___ cared for the sick ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_001.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/68/20260319/448165f2/cf0c54e9-6c2b-4d34-8afe-98e9b07b539e1001.png?Expires=1774518086&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=y0tCxaPOs%2BPoMn9ObrwHGS5wRnY%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 2,
+    "sentence": {
+      "level": 5,
+      "full": "A girl and her sister walked to the park.",
+      "cloze": "A ___ and her ___ walked to the park."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_002.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/2a/20260319/448165f2/3a74f85d-3f6f-4194-a264-1c255d6c281b1002.png?Expires=1774518088&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=AAV3KWCjUnkELR%2FCycRXVuCLlEg%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 3,
+    "sentence": {
+      "level": 5,
+      "full": "The brown cow stood near the old barn.",
+      "cloze": "The brown ___ stood near the old barn."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_003.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/bb/20260319/448165f2/8c09c2e4-e723-4feb-b93f-3070251016881003.png?Expires=1774518091&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=S6Ch4b6xvhT7XtW6JhXX1C4VXr0%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 4,
+    "sentence": {
+      "level": 5,
+      "full": "She drew a picture of a horse.",
+      "cloze": "She drew a ___ of a ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_004.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/67/20260319/448165f2/a5570b03-7406-49fc-8bb0-101e491c4e2f1004.png?Expires=1774518093&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=OSdt6MsvMSy7XVH5Rw6tbCQY46E%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 5,
+    "sentence": {
+      "level": 5,
+      "full": "The doctor said to drink lots of water.",
+      "cloze": "The ___ said to drink lots of ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_005.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/65/20260319/448165f2/bc725a8f-3621-4a3a-92fc-8bc44c3a3a081005.png?Expires=1774518096&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=Wk62KEHcGoHpExu4cEhkwJ1Qkjc%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 6,
+    "sentence": {
+      "level": 5,
+      "full": "He found a coin at the bottom of the fountain.",
+      "cloze": "He found a ___ at the bottom of the fountain."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_006.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/a8/20260319/448165f2/15e5a21a-7ca6-42ae-9879-9097bce7d5b51006.png?Expires=1774518098&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=ObtP7Ck0JVmThivecvAUCu7aiXg%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 7,
+    "sentence": {
+      "level": 5,
+      "full": "The music in the hall was very beautiful.",
+      "cloze": "The ___ in the hall was very ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_007.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/f1/20260319/448165f2/f2c3ffd7-e235-4dd4-b9c4-ee9605e3172d1007.png?Expires=1774518101&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=rZWJXPCmMZY6Wak1oIomZKpZoYQ%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 8,
+    "sentence": {
+      "level": 5,
+      "full": "A baby panda is small and very cute.",
+      "cloze": "A baby ___ is small and very cute."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_008.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/32/20260319/448165f2/e70ccb1f-8379-4828-a16e-46c4b92429a71008.png?Expires=1774518103&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=e1Fhe%2FBaYdQY5JqdUzqj4vcBBvM%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 9,
+    "sentence": {
+      "level": 5,
+      "full": "She found a purple flower near the castle.",
+      "cloze": "She found a ___ flower near the ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_009.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/a3/20260319/448165f2/83245c80-9214-46fe-88da-070cf13f1d2b1009.png?Expires=1774518105&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=9oU3wu5SLTDF2rob1730jucKCOI%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 10,
+    "sentence": {
+      "level": 5,
+      "full": "The farmer drove his tractor across the field.",
+      "cloze": "The farmer drove his ___ across the field."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_010.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/80/20260319/448165f2/12e4256d-5835-49e1-ac56-a38e568359871010.png?Expires=1774518108&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=jZS7FOWpv4a%2FVStp4LF6SDPl9mw%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 11,
+    "sentence": {
+      "level": 5,
+      "full": "He wrote a letter to his uncle.",
+      "cloze": "He ___ a letter to his uncle."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_011.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/d4/20260319/448165f2/adcad303-abfe-47ba-918d-b88ceedc5bfd1011.png?Expires=1774518110&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=DQGISrAgQMTXBYsMcANoqFxlfEk%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 12,
+    "sentence": {
+      "level": 5,
+      "full": "The children played on a tall slide.",
+      "cloze": "The ___ played on a tall ___."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_012.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/37/20260319/448165f2/8a30843b-9bed-4110-bd62-650ec947dc841012.png?Expires=1774518113&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=AEi16dFFaBqyxgciGdUp9s3%2FrOU%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 13,
+    "sentence": {
+      "level": 5,
+      "full": "A deer stood still in the morning mist.",
+      "cloze": "A ___ stood still in the morning mist."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_013.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/1b/20260319/448165f2/04e07e14-4d3f-4ec4-852f-6901d6652f681013.png?Expires=1774518115&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=jPQuJ1RigC8h%2FxNnoltwQFrdVsg%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 14,
+    "sentence": {
+      "level": 5,
+      "full": "She shared her bread with the bird.",
+      "cloze": "She ___ her ___ with the bird."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_014.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/75/20260319/448165f2/405148eb-defd-40cf-b285-c092acc597d21014.png?Expires=1774518118&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=CYz%2Ffdro8LLexKkAiEyhJdP9BJY%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 15,
+    "sentence": {
+      "level": 5,
+      "full": "My mother is kind, helpful, and clever.",
+      "cloze": "My mother is kind, ___, and clever."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_015.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/9d/20260319/448165f2/6549f244-74ef-4b7a-8739-67fa9b8a5ce61015.png?Expires=1774518120&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=fe6dO68d6CO%2FqkBAhzgsugNrUUI%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 16,
+    "sentence": {
+      "level": 5,
+      "full": "The gorilla climbed to the top of the tree.",
+      "cloze": "The ___ climbed to the top of the tree."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_016.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/71/20260319/448165f2/7426bbcc-fe90-46c5-9812-355deb0bd4731016.png?Expires=1774518123&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=FGI%2BKo1bPiGrvkpIOddu4zj9pEc%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 17,
+    "sentence": {
+      "level": 5,
+      "full": "She cut her knee when she fell on the path.",
+      "cloze": "She cut her ___ when she fell on the path."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_017.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/04/20260319/448165f2/d0b2d00d-bd54-4fcf-afa5-79b8470cffd11017.png?Expires=1774518125&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=%2BJnS%2Bvzs7uxDgWlave3ipGPoj2Q%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 18,
+    "sentence": {
+      "level": 5,
+      "full": "It is dangerous to run near the pool.",
+      "cloze": "It is ___ to run near the pool."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_018.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/e7/20260319/448165f2/406056d2-891c-4870-9f1e-a935c0e775051018.png?Expires=1774518127&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=LuCjUZULpkXNa3nStW%2BsDQc7%2FUQ%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 19,
+    "sentence": {
+      "level": 5,
+      "full": "The picture on the wall is very colourful.",
+      "cloze": "The ___ on the wall is very colourful."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_019.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/ee/20260319/448165f2/8d3f4570-01cf-4f78-bdb0-38cd590c3d1d1019.png?Expires=1774518130&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=roGxO7pOux8VHF%2F0%2B%2BC551XKMKw%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 20,
+    "sentence": {
+      "level": 5,
+      "full": "He found a treasure chest in the old cave.",
+      "cloze": "He found a ___ chest in the old cave."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_020.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/52/20260319/448165f2/f084116d-0b1b-40a4-897f-7208e4bd0bf21020.png?Expires=1774518132&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=Q%2BAyduB%2BksXB%2FaAtxb%2BjqfZLOVs%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 21,
+    "sentence": {
+      "level": 5,
+      "full": "The rhino drank water from the river.",
+      "cloze": "The ___ drank ___ from the river."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_021.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/60/20260319/448165f2/dbafb1b6-949b-4947-a8f2-4ef653a5d7351021.png?Expires=1774518135&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=ziXKLPt%2FhshI8jq5MylAxZpHYLE%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 22,
+    "sentence": {
+      "level": 5,
+      "full": "A lamb ran across the green meadow.",
+      "cloze": "A ___ ran across the green meadow."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_022.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/c5/20260319/448165f2/acc5cd4f-07d9-46ab-9dab-b6017d3b20cb1022.png?Expires=1774518137&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=muOEax7QwVgaZU53cXgCY893rW4%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 23,
+    "sentence": {
+      "level": 5,
+      "full": "She wore a glove on each hand in the snow.",
+      "cloze": "She wore a ___ on each hand in the snow."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_023.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/f0/20260319/448165f2/0d91b070-27a1-4337-ab4e-17b39d7d99801023.png?Expires=1774518139&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=f%2BTfTRWrnu2mv1LvjqhH%2Fsc38oM%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 24,
+    "sentence": {
+      "level": 5,
+      "full": "The television show made everyone laugh.",
+      "cloze": "The ___ show made everyone laugh."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_024.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/94/20260319/448165f2/ccefa772-75d2-47d4-8a58-d50e37f412981024.png?Expires=1774518142&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=Lh4ok37D2BxmyFNXfTxYIw%2F%2FztE%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 25,
+    "sentence": {
+      "level": 5,
+      "full": "He surprised his sister with a nice cake.",
+      "cloze": "He ___ his sister with a nice cake."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_025.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/b0/20260319/448165f2/10ea1fe2-c593-4ca0-acab-e791607a7c5b1025.png?Expires=1774518144&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=li%2B7MD5SOQ2%2FtWtIKUHoOWnfeEo%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 26,
+    "sentence": {
+      "level": 5,
+      "full": "The horse ran fast around the field.",
+      "cloze": "The ___ ran fast around the field."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_026.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/1d/20260319/448165f2/f9c42237-e589-4f38-838e-f90a5fe44b151026.png?Expires=1774518147&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=rZ1fWrnuvyN1iFEZ%2FdDk1RPAHGk%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 27,
+    "sentence": {
+      "level": 5,
+      "full": "She pointed at the beautiful rainbow.",
+      "cloze": "She ___ at the beautiful rainbow."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_027.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/48/20260319/448165f2/c3a16509-81d5-4611-857e-5d18e3b234591027.png?Expires=1774518149&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=cDe0zo7AoYxecJI5%2FfmA3BpX5W4%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 28,
+    "sentence": {
+      "level": 5,
+      "full": "The boy was thirsty after playing.",
+      "cloze": "The boy was ___ after playing."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_028.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/0a/20260319/448165f2/9372ff62-920e-4a26-8bf0-7e156073cc1c1028.png?Expires=1774518152&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=f41947e2ARumrj4Nk836oAR8HSI%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 29,
+    "sentence": {
+      "level": 5,
+      "full": "They walked through the dark forest.",
+      "cloze": "They ___ through the dark forest."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_029.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/36/20260319/448165f2/fde05b82-458a-43ab-9259-56f1275506e31029.png?Expires=1774518154&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=R7wIqPEa3j%2Fr2iA5lwhm%2BmI9FME%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 30,
+    "sentence": {
+      "level": 5,
+      "full": "The mountain was covered with snow.",
+      "cloze": "The ___ was covered with snow."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_030.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/32/20260319/448165f2/b5c14583-1d07-40c3-b3f3-e3bf9a7c4c251030.png?Expires=1774518157&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=DDnvntqrm%2FYjX4%2BQsE5husnuNSw%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 31,
+    "sentence": {
+      "level": 5,
+      "full": "She poured the juice into a glass.",
+      "cloze": "She ___ the juice into a glass."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_031.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/e1/20260319/448165f2/40203a67-921c-4808-b623-af1d51ca74e41031.png?Expires=1774518159&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=3PwEDZr7NyEscO0HDd6JyD9LtOI%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 32,
+    "sentence": {
+      "level": 5,
+      "full": "The children laughed at the funny joke.",
+      "cloze": "The ___ laughed at the funny joke."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_032.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/3e/20260319/448165f2/22623911-a6de-4c1d-a8d0-ceb80d1005b01032.png?Expires=1774518162&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=go55aFIzn4AqK9fh4yVhSP9rZYU%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 33,
+    "sentence": {
+      "level": 5,
+      "full": "He was careful not to break the vase.",
+      "cloze": "He was ___ not to break the vase."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_033.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/d3/20260319/448165f2/517c21c5-8e1d-45f0-978d-5dc989c64f131033.png?Expires=1774518164&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=NZAtxXRFz4FNinWEEFo1q8Nx3tE%3D"
+  },
+  {
+    "level": 5,
+    "levelIndex": 34,
+    "sentence": {
+      "level": 5,
+      "full": "The rainbow appeared after the storm.",
+      "cloze": "The ___ appeared after the storm."
+    },
+    "status": "success",
+    "filePath": "/Users/chenpet/Library/CloudStorage/OneDrive-adidas/Documents/Personal devices/worksheet-maker/sentence-images/level-5/L5_034.png",
+    "imageUrl": "https://dashscope-result-bj.oss-cn-beijing.aliyuncs.com/7d/4b/20260319/448165f2/5077570e-c214-4569-b4de-0d567b9a39851034.png?Expires=1774518167&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=gwY45O0JsDiagODN0Cx8t0UOCk8%3D"
+  }
+]
