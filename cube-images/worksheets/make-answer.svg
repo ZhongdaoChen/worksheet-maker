@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1754" viewBox="0 0 1240 1754">
+<rect width="1240" height="1754" fill="#fdfcf8"/>
+<text x="80" y="120" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="46" font-weight="700" fill="#4a4a68">Make and Match</text>
+<text x="80" y="185" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="30" fill="#6b6b8a">Which two shapes can make the target? Match them.</text>
+<rect x="470" y="200" width="300" height="200" rx="24" fill="#e9f0ee"/>
+<g transform="translate(600.21 265.71)"><path d="M 0 -45.71 L 39.59 -22.86 L 0 0 L -39.59 -22.86 Z" fill="#a9d3cd" stroke="#487076" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M -79.18 0 L -79.18 45.71 L -39.59 68.57 L -39.59 22.86 Z" fill="#7cb2ad" stroke="#487076" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M -39.59 -22.86 L 0 0 L -39.59 22.86 L -79.18 0 Z" fill="#a9d3cd" stroke="#487076" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 39.59 -22.86 L 79.18 0 L 39.59 22.86 L 0 0 Z" fill="#a9d3cd" stroke="#487076" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M -39.59 22.86 L -39.59 68.57 L 0 91.43 L 0 45.71 Z" fill="#7cb2ad" stroke="#487076" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 0 L 39.59 22.86 L 0 45.71 L -39.59 22.86 Z" fill="#a9d3cd" stroke="#487076" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 118.77 22.86 L 118.77 68.57 L 79.18 91.43 L 79.18 45.71 Z" fill="#5b868b" stroke="#487076" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 79.18 0 L 118.77 22.86 L 79.18 45.71 L 39.59 22.86 Z" fill="#a9d3cd" stroke="#487076" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 79.18 45.71 L 79.18 91.43 L 39.59 114.29 L 39.59 68.57 Z" fill="#5b868b" stroke="#487076" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 45.71 L 0 91.43 L 39.59 114.29 L 39.59 68.57 Z" fill="#7cb2ad" stroke="#487076" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 39.59 22.86 L 79.18 45.71 L 39.59 68.57 L 0 45.71 Z" fill="#a9d3cd" stroke="#487076" stroke-width="2.06" stroke-linejoin="round"/></g>
+<rect x="80" y="430" width="247" height="600" rx="24" fill="#e9f0ee"/>
+<g transform="translate(183.71 705.71)"><path d="M -39.59 -22.86 L -39.59 22.86 L 0 45.71 L 0 0 Z" fill="#8b90b2" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 -45.71 L 39.59 -22.86 L 0 0 L -39.59 -22.86 Z" fill="#aab0cb" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 79.18 0 L 79.18 45.71 L 39.59 68.57 L 39.59 22.86 Z" fill="#656a8e" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 39.59 -22.86 L 79.18 0 L 39.59 22.86 L 0 0 Z" fill="#aab0cb" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M -39.59 22.86 L -39.59 68.57 L 0 91.43 L 0 45.71 Z" fill="#8b90b2" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 0 L 39.59 22.86 L 0 45.71 L -39.59 22.86 Z" fill="#aab0cb" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 79.18 45.71 L 79.18 91.43 L 39.59 114.29 L 39.59 68.57 Z" fill="#656a8e" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 45.71 L 0 91.43 L 39.59 114.29 L 39.59 68.57 Z" fill="#8b90b2" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 39.59 22.86 L 79.18 45.71 L 39.59 68.57 L 0 45.71 Z" fill="#aab0cb" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/></g>
+<circle cx="125" cy="475" r="24" fill="#ffffff" stroke="#00838f" stroke-width="3"/>
+<text x="125" y="486" text-anchor="middle" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="30" font-weight="700" fill="#00838f">1</text>
+<rect x="357" y="430" width="247" height="600" rx="24" fill="#e9f0ee"/>
+<g transform="translate(460.71 705.71)"><path d="M 0 -45.71 L 39.59 -22.86 L 0 0 L -39.59 -22.86 Z" fill="#d98f9b" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 0 L 0 45.71 L -39.59 68.57 L -39.59 22.86 Z" fill="#a94f63" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M -79.18 0 L -79.18 45.71 L -39.59 68.57 L -39.59 22.86 Z" fill="#c4677a" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M -39.59 -22.86 L 0 0 L -39.59 22.86 L -79.18 0 Z" fill="#d98f9b" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 0 L 0 45.71 L 39.59 68.57 L 39.59 22.86 Z" fill="#c4677a" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 39.59 -22.86 L 79.18 0 L 39.59 22.86 L 0 0 Z" fill="#d98f9b" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 118.77 22.86 L 118.77 68.57 L 79.18 91.43 L 79.18 45.71 Z" fill="#a94f63" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 79.18 0 L 118.77 22.86 L 79.18 45.71 L 39.59 22.86 Z" fill="#d98f9b" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 79.18 45.71 L 79.18 91.43 L 39.59 114.29 L 39.59 68.57 Z" fill="#a94f63" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 45.71 L 0 91.43 L 39.59 114.29 L 39.59 68.57 Z" fill="#c4677a" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 39.59 22.86 L 79.18 45.71 L 39.59 68.57 L 0 45.71 Z" fill="#d98f9b" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/></g>
+<circle cx="402" cy="475" r="24" fill="#ffffff" stroke="#00838f" stroke-width="3"/>
+<text x="402" y="486" text-anchor="middle" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="30" font-weight="700" fill="#00838f">2</text>
+<rect x="634" y="430" width="247" height="600" rx="24" fill="#e9f0ee"/>
+<g transform="translate(737.71 717.14)"><path d="M 0 -45.71 L 39.59 -22.86 L 0 0 L -39.59 -22.86 Z" fill="#f0b46a" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 0 L 0 45.71 L -39.59 68.57 L -39.59 22.86 Z" fill="#c87a30" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M -79.18 0 L -79.18 45.71 L -39.59 68.57 L -39.59 22.86 Z" fill="#df9440" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M -39.59 -22.86 L 0 0 L -39.59 22.86 L -79.18 0 Z" fill="#f0b46a" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 0 L 0 45.71 L 39.59 68.57 L 39.59 22.86 Z" fill="#df9440" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 39.59 -22.86 L 79.18 0 L 39.59 22.86 L 0 0 Z" fill="#f0b46a" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 118.77 22.86 L 118.77 68.57 L 79.18 91.43 L 79.18 45.71 Z" fill="#c87a30" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 39.59 22.86 L 39.59 68.57 L 79.18 91.43 L 79.18 45.71 Z" fill="#df9440" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 79.18 0 L 118.77 22.86 L 79.18 45.71 L 39.59 22.86 Z" fill="#f0b46a" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/></g>
+<circle cx="679" cy="475" r="24" fill="#ffffff" stroke="#00838f" stroke-width="3"/>
+<text x="679" y="486" text-anchor="middle" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="30" font-weight="700" fill="#00838f">3</text>
+<rect x="911" y="430" width="247" height="600" rx="24" fill="#e9f0ee"/>
+<g transform="translate(1034.5 740)"><path d="M 39.59 -22.86 L 39.59 22.86 L 0 45.71 L 0 0 Z" fill="#a94f63" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M -39.59 -22.86 L -39.59 22.86 L 0 45.71 L 0 0 Z" fill="#c4677a" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 -45.71 L 39.59 -22.86 L 0 0 L -39.59 -22.86 Z" fill="#d98f9b" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/></g>
+<circle cx="956" cy="475" r="24" fill="#ffffff" stroke="#00838f" stroke-width="3"/>
+<text x="956" y="486" text-anchor="middle" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="30" font-weight="700" fill="#00838f">4</text>
+<rect x="80" y="1070" width="247" height="600" rx="24" fill="#e9f0ee"/>
+<g transform="translate(163.91 1357.14)"><path d="M -39.59 -22.86 L -39.59 22.86 L 0 45.71 L 0 0 Z" fill="#c4677a" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 -45.71 L 39.59 -22.86 L 0 0 L -39.59 -22.86 Z" fill="#d98f9b" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 0 L 0 45.71 L 39.59 68.57 L 39.59 22.86 Z" fill="#c4677a" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 39.59 -22.86 L 79.18 0 L 39.59 22.86 L 0 0 Z" fill="#d98f9b" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 118.77 22.86 L 118.77 68.57 L 79.18 91.43 L 79.18 45.71 Z" fill="#a94f63" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 39.59 22.86 L 39.59 68.57 L 79.18 91.43 L 79.18 45.71 Z" fill="#c4677a" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 79.18 0 L 118.77 22.86 L 79.18 45.71 L 39.59 22.86 Z" fill="#d98f9b" stroke="#8c3f52" stroke-width="2.06" stroke-linejoin="round"/></g>
+<circle cx="125" cy="1115" r="24" fill="#ffffff" stroke="#00838f" stroke-width="3"/>
+<text x="125" y="1126" text-anchor="middle" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="30" font-weight="700" fill="#00838f">5</text>
+<rect x="357" y="1070" width="247" height="600" rx="24" fill="#e9f0ee"/>
+<g transform="translate(480.5 1357.14)"><path d="M 0 -45.71 L 39.59 -22.86 L 0 0 L -39.59 -22.86 Z" fill="#aab0cb" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M -79.18 0 L -79.18 45.71 L -39.59 68.57 L -39.59 22.86 Z" fill="#8b90b2" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M -39.59 -22.86 L 0 0 L -39.59 22.86 L -79.18 0 Z" fill="#aab0cb" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 79.18 0 L 79.18 45.71 L 39.59 68.57 L 39.59 22.86 Z" fill="#656a8e" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 39.59 -22.86 L 79.18 0 L 39.59 22.86 L 0 0 Z" fill="#aab0cb" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 39.59 22.86 L 39.59 68.57 L 0 91.43 L 0 45.71 Z" fill="#656a8e" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M -39.59 22.86 L -39.59 68.57 L 0 91.43 L 0 45.71 Z" fill="#8b90b2" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 0 L 39.59 22.86 L 0 45.71 L -39.59 22.86 Z" fill="#aab0cb" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/></g>
+<circle cx="402" cy="1115" r="24" fill="#ffffff" stroke="#00838f" stroke-width="3"/>
+<text x="402" y="1126" text-anchor="middle" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="30" font-weight="700" fill="#00838f">6</text>
+<rect x="634" y="1070" width="247" height="600" rx="24" fill="#e9f0ee"/>
+<g transform="translate(717.91 1357.14)"><path d="M -39.59 -22.86 L -39.59 22.86 L 0 45.71 L 0 0 Z" fill="#df9440" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 -45.71 L 39.59 -22.86 L 0 0 L -39.59 -22.86 Z" fill="#f0b46a" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 0 L 0 45.71 L 39.59 68.57 L 39.59 22.86 Z" fill="#df9440" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 39.59 -22.86 L 79.18 0 L 39.59 22.86 L 0 0 Z" fill="#f0b46a" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 118.77 22.86 L 118.77 68.57 L 79.18 91.43 L 79.18 45.71 Z" fill="#c87a30" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 39.59 22.86 L 39.59 68.57 L 79.18 91.43 L 79.18 45.71 Z" fill="#df9440" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 79.18 0 L 118.77 22.86 L 79.18 45.71 L 39.59 22.86 Z" fill="#f0b46a" stroke="#a56426" stroke-width="2.06" stroke-linejoin="round"/></g>
+<circle cx="679" cy="1115" r="24" fill="#ffffff" stroke="#00838f" stroke-width="3"/>
+<text x="679" y="1126" text-anchor="middle" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="30" font-weight="700" fill="#00838f">7</text>
+<rect x="911" y="1070" width="247" height="600" rx="24" fill="#e9f0ee"/>
+<g transform="translate(1054.29 1368.57)"><path d="M 39.59 -22.86 L 39.59 22.86 L 0 45.71 L 0 0 Z" fill="#656a8e" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 -45.71 L 39.59 -22.86 L 0 0 L -39.59 -22.86 Z" fill="#aab0cb" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M 0 0 L 0 45.71 L -39.59 68.57 L -39.59 22.86 Z" fill="#656a8e" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M -79.18 0 L -79.18 45.71 L -39.59 68.57 L -39.59 22.86 Z" fill="#8b90b2" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/>
+<path d="M -39.59 -22.86 L 0 0 L -39.59 22.86 L -79.18 0 Z" fill="#aab0cb" stroke="#52577a" stroke-width="2.06" stroke-linejoin="round"/></g>
+<circle cx="956" cy="1115" r="24" fill="#ffffff" stroke="#00838f" stroke-width="3"/>
+<text x="956" y="1126" text-anchor="middle" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="30" font-weight="700" fill="#00838f">8</text>
+<ellipse cx="480.5" cy="730" rx="117.5" ry="294" fill="none" stroke="#d94f5c" stroke-width="6"/>
+<text x="568" y="488" text-anchor="middle" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="34" font-weight="700" fill="#d94f5c">A</text>
+<ellipse cx="1034.5" cy="730" rx="117.5" ry="294" fill="none" stroke="#d94f5c" stroke-width="6"/>
+<text x="1122" y="488" text-anchor="middle" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="34" font-weight="700" fill="#d94f5c">A</text>
+<ellipse cx="203.5" cy="1370" rx="117.5" ry="294" fill="none" stroke="#d94f5c" stroke-width="6"/>
+<text x="291" y="1128" text-anchor="middle" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="34" font-weight="700" fill="#d94f5c">B</text>
+<ellipse cx="757.5" cy="1370" rx="117.5" ry="294" fill="none" stroke="#d94f5c" stroke-width="6"/>
+<text x="845" y="1128" text-anchor="middle" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="34" font-weight="700" fill="#d94f5c">B</text>
+<ellipse cx="480.5" cy="1370" rx="117.5" ry="294" fill="none" stroke="#d94f5c" stroke-width="6"/>
+<text x="568" y="1128" text-anchor="middle" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="34" font-weight="700" fill="#d94f5c">C</text>
+<ellipse cx="1034.5" cy="1370" rx="117.5" ry="294" fill="none" stroke="#d94f5c" stroke-width="6"/>
+<text x="1122" y="1128" text-anchor="middle" font-family="\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif" font-size="34" font-weight="700" fill="#d94f5c">C</text>
+</svg>

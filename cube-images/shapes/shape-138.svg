@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="405" height="528" viewBox="-261.54 -298.29 405 528">
+<rect x="-261.54" y="-298.29" width="405" height="528" fill="#ffffff"/>
+<path d="M 118.77 -68.57 L 118.77 68.57 L 0 137.14 L 0 0 Z" fill="#656a8e" stroke="#52577a" stroke-width="6.17" stroke-linejoin="round"/>
+<path d="M 118.77 -205.71 L 118.77 -68.57 L 0 0 L 0 -137.14 Z" fill="#656a8e" stroke="#52577a" stroke-width="6.17" stroke-linejoin="round"/>
+<path d="M 0 -274.29 L 118.77 -205.71 L 0 -137.14 L -118.77 -205.71 Z" fill="#aab0cb" stroke="#52577a" stroke-width="6.17" stroke-linejoin="round"/>
+<path d="M 0 0 L 0 137.14 L -118.77 205.71 L -118.77 68.57 Z" fill="#656a8e" stroke="#52577a" stroke-width="6.17" stroke-linejoin="round"/>
+<path d="M -237.54 0 L -237.54 137.14 L -118.77 205.71 L -118.77 68.57 Z" fill="#8b90b2" stroke="#52577a" stroke-width="6.17" stroke-linejoin="round"/>
+<path d="M 0 -137.14 L 0 0 L -118.77 68.57 L -118.77 -68.57 Z" fill="#656a8e" stroke="#52577a" stroke-width="6.17" stroke-linejoin="round"/>
+<path d="M -237.54 -137.14 L -237.54 0 L -118.77 68.57 L -118.77 -68.57 Z" fill="#8b90b2" stroke="#52577a" stroke-width="6.17" stroke-linejoin="round"/>
+<path d="M -118.77 -205.71 L 0 -137.14 L -118.77 -68.57 L -237.54 -137.14 Z" fill="#aab0cb" stroke="#52577a" stroke-width="6.17" stroke-linejoin="round"/>
+</svg>

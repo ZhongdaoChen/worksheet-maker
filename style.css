@@ -122,13 +122,15 @@ button:active { transform: scale(.97); }
 .hint b { color: #7986cb; }
 
 /* ── Preview area ───────────────────────────────────────────────────────────── */
+/* Stacks as many A4 sheets as the content needs */
 .preview-area {
   flex: 1;
   overflow: auto;
   padding: 24px 28px;
   display: flex;
-  justify-content: center;
-  align-items: flex-start;
+  flex-direction: column;
+  align-items: center;
+  gap: 28px;
 }
 
 /* ── A4 page ────────────────────────────────────────────────────────────────── */
@@ -140,6 +142,8 @@ button:active { transform: scale(.97); }
   box-shadow: 0 8px 32px rgba(80,80,180,.18);
   flex-shrink: 0;
   border-radius: 4px;
+  display: flex;
+  flex-direction: column;
 }
 
 /* ── Decorative banner ──────────────────────────────────────────────────────── */
@@ -162,7 +166,6 @@ button:active { transform: scale(.97); }
   font-weight: 800;
   color: #5c6bc0;
   padding: 3.5mm 2mm;
-  margin-top: 8mm;
   letter-spacing: .5mm;
 }
 
@@ -172,9 +175,17 @@ button:active { transform: scale(.97); }
   font-size: 24pt;
   font-weight: 800;
   color: #3949ab;
-  margin-bottom: 8mm;
+  margin-bottom: 6mm;
   font-family: 'Helvetica Neue', Arial, sans-serif;
   letter-spacing: .03em;
+}
+
+.ws-content {
+  flex: 1;
+}
+
+.ws-footer {
+  margin-top: auto;
 }
 
 /* ── Section header ─────────────────────────────────────────────────────────── */
@@ -202,18 +213,41 @@ button:active { transform: scale(.97); }
 
 .section-body { margin-bottom: 8mm; }
 
+/* ── Math + Symbol side-by-side row ────────────────────────────────────────── */
+.math-row {
+  display: flex;
+  gap: 6mm;
+}
+.math-row > section {
+  flex: 1;
+  min-width: 0;
+}
+/* Math now lays out two problems per row, so give it the larger share
+   when the symbol column sits beside it */
+.math-row > section:first-child {
+  flex: 2;
+}
+/* Hide empty sections so they don't eat flex space */
+.math-row > section:empty {
+  display: none;
+}
+
 /* ── Math grid ──────────────────────────────────────────────────────────────── */
 .math-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: max-content max-content;
+  justify-content: space-between;
   column-gap: 6mm;
+  grid-auto-rows: minmax(15mm, auto);
+  align-items: center;
+  row-gap: 2mm;
 }
 
 .problem {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   min-height: 15mm;
-  font-size: 20pt;
+  font-size: 16pt;
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
@@ -235,11 +269,64 @@ button:active { transform: scale(.97); }
 /* The fill-in blank */
 .blank {
   display: inline-block;
-  width: 20mm;
+  width: 16mm;
   border-bottom: 2pt solid #3949ab;
   position: relative;
   top: 2pt;
   margin: 0 .5mm;
+}
+
+.grade-box {
+  width: 8mm;
+  height: 8mm;
+  border: 1.5pt solid #3949ab;
+  border-radius: 1mm;
+  flex-shrink: 0;
+  margin-left: 1ch;
+}
+
+/* ── Symbol puzzles ─────────────────────────────────────────────────────────── */
+.sec-symbol .sec-label, .sec-symbol .sec-rule { color: #333; }
+
+.sym-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 3mm;
+}
+
+.sym-problem {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5mm;
+  font-size: 15pt;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  min-height: 15mm;
+  padding: 1mm 0;
+}
+
+.sym-equations {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5mm;
+}
+
+.sym-eq {
+  color: #333;
+  line-height: 1.5;
+}
+
+.sym-question {
+  font-weight: 700;
+  color: #333;
+  display: flex;
+  align-items: baseline;
+  line-height: 1.5;
+}
+
+.sym-blank {
+  width: 14mm;
+  border-bottom-color: #333;
 }
 
 /* ── Alphabet grid ──────────────────────────────────────────────────────────── */
@@ -358,7 +445,125 @@ button:active { transform: scale(.97); }
   box-shadow: 0 2mm 6mm rgba(123, 63, 160, 0.2);
 }
 
+/* ── Cubes section ─────────────────────────────────────────────────────────── */
+.sec-cube .sec-label, .sec-cube .sec-rule { color: #00838f; }
+
+.cube-instr {
+  font-size: 12pt;
+  font-weight: 700;
+  color: #006064;
+  margin-bottom: 2mm;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+.cube-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4mm;
+}
+
+.cube-item {
+  background: #eef4f3;
+  border-radius: 4mm;
+  padding: 3mm;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2mm;
+  break-inside: avoid;
+}
+
+/* Figures carry explicit pixel sizes (fixed cube edge) from app.js */
+.cube-fig { height: auto; max-width: 100%; display: block; }
+
+.cube-answer {
+  display: flex;
+  align-items: baseline;
+  gap: 1mm;
+  font-size: 14pt;
+  font-weight: 700;
+  color: #00838f;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+.cube-blank { width: 12mm; border-bottom-color: #00838f; }
+
+.cube-group {
+  background: #eef4f3;
+  border-radius: 4mm;
+  padding: 3mm;
+  margin-bottom: 4mm;
+  break-inside: avoid;
+}
+
+.cube-row {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  gap: 2mm;
+}
+
+.cube-slot {
+  width: 26mm;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.cube-dots { padding: 2mm 0; }
+
+.cube-dot {
+  width: 2.5mm;
+  height: 2.5mm;
+  border-radius: 50%;
+  background: #90a4ae;
+}
+
+/* Make-a-shape: eight numbered figures in a 4×2 grid */
+.make-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 3mm;
+}
+
+.make-item {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 2mm;
+  min-width: 0;
+}
+
+.cube-num {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 6mm;
+  height: 6mm;
+  border: 1.2pt solid #00838f;
+  border-radius: 50%;
+  color: #00838f;
+  background: #fff;
+  font-size: 10pt;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Target figure on its own centered row, same cube edge as the pieces */
+.cube-target-row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2mm;
+}
+
+.cube-target { max-width: 100%; }
+
 /* Sidebar select */
+#cube-type,
 #sent-level {
   width: 56px;
   padding: 4px 4px;
@@ -389,18 +594,36 @@ button:active { transform: scale(.97); }
 
   .a4-page {
     width: 100%;
-    min-height: auto;
+    min-height: calc(297mm - 30mm);
     padding: 0;
     box-shadow: none;
     border-radius: 0;
+    /* One sheet of A4 per .a4-page */
+    break-after: page;
+    page-break-after: always;
+  }
+
+  .a4-page:last-child {
+    break-after: auto;
+    page-break-after: auto;
+  }
+
+  /* Never cut a problem group in half mid-sheet */
+  .cube-group, .cube-item, .sent-item, .math-row {
+    break-inside: avoid;
+    page-break-inside: avoid;
   }
 
   /* Preserve colours when printing */
   .ws-title,
   .ws-deco-top, .ws-deco-bottom,
   .sec-math  .sec-label, .sec-math  .sec-rule,
+  .sec-symbol .sec-label, .sec-symbol .sec-rule,
   .sec-alpha .sec-label, .sec-alpha .sec-rule,
+  .sec-cube  .sec-label, .sec-cube  .sec-rule,
   .sec-sent  .sec-label, .sec-sent  .sec-rule,
+  .cube-item, .cube-group, .cube-dot, .cube-instr, .cube-answer, .cube-blank,
+  .cube-num,
   .alpha-shown, .blank, .prob-num,
   .sent-full, .sent-cloze, .sent-num, .sent-write-line {
     -webkit-print-color-adjust: exact;

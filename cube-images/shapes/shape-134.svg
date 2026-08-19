@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="418" height="528" viewBox="-208.75 -344 418 528">
+<rect x="-208.75" y="-344" width="418" height="528" fill="#ffffff"/>
+<path d="M 0 0 L 0 106.67 L -92.38 160 L -92.38 53.33 Z" fill="#656a8e" stroke="#52577a" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M -184.75 0 L -184.75 106.67 L -92.38 160 L -92.38 53.33 Z" fill="#8b90b2" stroke="#52577a" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 184.75 0 L 184.75 106.67 L 92.38 160 L 92.38 53.33 Z" fill="#656a8e" stroke="#52577a" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 0 0 L 0 106.67 L 92.38 160 L 92.38 53.33 Z" fill="#8b90b2" stroke="#52577a" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M -92.38 -266.67 L -92.38 -160 L 0 -106.67 L 0 -213.33 Z" fill="#8b90b2" stroke="#52577a" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 0 -320 L 92.38 -266.67 L 0 -213.33 L -92.38 -266.67 Z" fill="#aab0cb" stroke="#52577a" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 0 -106.67 L 0 0 L -92.38 53.33 L -92.38 -53.33 Z" fill="#656a8e" stroke="#52577a" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M -184.75 -106.67 L -184.75 0 L -92.38 53.33 L -92.38 -53.33 Z" fill="#8b90b2" stroke="#52577a" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M -92.38 -160 L 0 -106.67 L -92.38 -53.33 L -184.75 -106.67 Z" fill="#aab0cb" stroke="#52577a" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 184.75 -106.67 L 184.75 0 L 92.38 53.33 L 92.38 -53.33 Z" fill="#656a8e" stroke="#52577a" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 0 -106.67 L 0 0 L 92.38 53.33 L 92.38 -53.33 Z" fill="#8b90b2" stroke="#52577a" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 184.75 -213.33 L 184.75 -106.67 L 92.38 -53.33 L 92.38 -160 Z" fill="#656a8e" stroke="#52577a" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 0 -213.33 L 0 -106.67 L 92.38 -53.33 L 92.38 -160 Z" fill="#8b90b2" stroke="#52577a" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 92.38 -266.67 L 184.75 -213.33 L 92.38 -160 L 0 -213.33 Z" fill="#aab0cb" stroke="#52577a" stroke-width="4.8" stroke-linejoin="round"/>
+</svg>

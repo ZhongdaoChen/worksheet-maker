@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="464" height="528" viewBox="-231.85 -264 464 528">
+<rect x="-231.85" y="-264" width="464" height="528" fill="#ffffff"/>
+<path d="M 103.92 -180 L 103.92 -60 L 0 0 L 0 -120 Z" fill="#c87a30" stroke="#a56426" stroke-width="5.4" stroke-linejoin="round"/>
+<path d="M 0 -240 L 103.92 -180 L 0 -120 L -103.92 -180 Z" fill="#f0b46a" stroke="#a56426" stroke-width="5.4" stroke-linejoin="round"/>
+<path d="M -207.85 0 L -207.85 120 L -103.92 180 L -103.92 60 Z" fill="#df9440" stroke="#a56426" stroke-width="5.4" stroke-linejoin="round"/>
+<path d="M 207.85 0 L 207.85 120 L 103.92 180 L 103.92 60 Z" fill="#c87a30" stroke="#a56426" stroke-width="5.4" stroke-linejoin="round"/>
+<path d="M 103.92 -60 L 207.85 0 L 103.92 60 L 0 0 Z" fill="#f0b46a" stroke="#a56426" stroke-width="5.4" stroke-linejoin="round"/>
+<path d="M 0 -120 L 0 0 L -103.92 60 L -103.92 -60 Z" fill="#c87a30" stroke="#a56426" stroke-width="5.4" stroke-linejoin="round"/>
+<path d="M -207.85 -120 L -207.85 0 L -103.92 60 L -103.92 -60 Z" fill="#df9440" stroke="#a56426" stroke-width="5.4" stroke-linejoin="round"/>
+<path d="M -103.92 -180 L 0 -120 L -103.92 -60 L -207.85 -120 Z" fill="#f0b46a" stroke="#a56426" stroke-width="5.4" stroke-linejoin="round"/>
+<path d="M 103.92 60 L 103.92 180 L 0 240 L 0 120 Z" fill="#c87a30" stroke="#a56426" stroke-width="5.4" stroke-linejoin="round"/>
+<path d="M -103.92 60 L -103.92 180 L 0 240 L 0 120 Z" fill="#df9440" stroke="#a56426" stroke-width="5.4" stroke-linejoin="round"/>
+<path d="M 0 0 L 103.92 60 L 0 120 L -103.92 60 Z" fill="#f0b46a" stroke="#a56426" stroke-width="5.4" stroke-linejoin="round"/>
+</svg>

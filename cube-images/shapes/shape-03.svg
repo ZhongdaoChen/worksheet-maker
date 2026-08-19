@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="528" height="464" viewBox="-264 -162.56 528 464">
+<rect x="-264" y="-162.56" width="528" height="464" fill="#ffffff"/>
+<path d="M 0 -138.56 L 120 -69.28 L 0 0 L -120 -69.28 Z" fill="#f0b46a" stroke="#a56426" stroke-width="6.24" stroke-linejoin="round"/>
+<path d="M -240 0 L -240 138.56 L -120 207.85 L -120 69.28 Z" fill="#df9440" stroke="#a56426" stroke-width="6.24" stroke-linejoin="round"/>
+<path d="M -120 -69.28 L 0 0 L -120 69.28 L -240 0 Z" fill="#f0b46a" stroke="#a56426" stroke-width="6.24" stroke-linejoin="round"/>
+<path d="M 240 0 L 240 138.56 L 120 207.85 L 120 69.28 Z" fill="#c87a30" stroke="#a56426" stroke-width="6.24" stroke-linejoin="round"/>
+<path d="M 120 -69.28 L 240 0 L 120 69.28 L 0 0 Z" fill="#f0b46a" stroke="#a56426" stroke-width="6.24" stroke-linejoin="round"/>
+<path d="M 120 69.28 L 120 207.85 L 0 277.13 L 0 138.56 Z" fill="#c87a30" stroke="#a56426" stroke-width="6.24" stroke-linejoin="round"/>
+<path d="M -120 69.28 L -120 207.85 L 0 277.13 L 0 138.56 Z" fill="#df9440" stroke="#a56426" stroke-width="6.24" stroke-linejoin="round"/>
+<path d="M 0 0 L 120 69.28 L 0 138.56 L -120 69.28 Z" fill="#f0b46a" stroke="#a56426" stroke-width="6.24" stroke-linejoin="round"/>
+</svg>

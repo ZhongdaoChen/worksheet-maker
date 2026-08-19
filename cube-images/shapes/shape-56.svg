@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="528" viewBox="-301.13 -237.33 510 528">
+<rect x="-301.13" y="-237.33" width="510" height="528" fill="#ffffff"/>
+<path d="M 92.38 -160 L 92.38 -53.33 L 0 0 L 0 -106.67 Z" fill="#a94f63" stroke="#8c3f52" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M -92.38 -160 L -92.38 -53.33 L 0 0 L 0 -106.67 Z" fill="#c4677a" stroke="#8c3f52" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 0 -213.33 L 92.38 -160 L 0 -106.67 L -92.38 -160 Z" fill="#d98f9b" stroke="#8c3f52" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M -92.38 -53.33 L 0 0 L -92.38 53.33 L -184.75 0 Z" fill="#d98f9b" stroke="#8c3f52" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 184.75 0 L 184.75 106.67 L 92.38 160 L 92.38 53.33 Z" fill="#a94f63" stroke="#8c3f52" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 92.38 -53.33 L 184.75 0 L 92.38 53.33 L 0 0 Z" fill="#d98f9b" stroke="#8c3f52" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M -277.13 53.33 L -277.13 160 L -184.75 213.33 L -184.75 106.67 Z" fill="#c4677a" stroke="#8c3f52" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M -184.75 0 L -92.38 53.33 L -184.75 106.67 L -277.13 53.33 Z" fill="#d98f9b" stroke="#8c3f52" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 92.38 53.33 L 92.38 160 L 0 213.33 L 0 106.67 Z" fill="#a94f63" stroke="#8c3f52" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 92.38 -53.33 L 92.38 53.33 L 0 106.67 L 0 0 Z" fill="#a94f63" stroke="#8c3f52" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M -92.38 -53.33 L -92.38 53.33 L 0 106.67 L 0 0 Z" fill="#c4677a" stroke="#8c3f52" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 0 -106.67 L 92.38 -53.33 L 0 0 L -92.38 -53.33 Z" fill="#d98f9b" stroke="#8c3f52" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M 0 106.67 L 0 213.33 L -92.38 266.67 L -92.38 160 Z" fill="#a94f63" stroke="#8c3f52" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M -184.75 106.67 L -184.75 213.33 L -92.38 266.67 L -92.38 160 Z" fill="#c4677a" stroke="#8c3f52" stroke-width="4.8" stroke-linejoin="round"/>
+<path d="M -92.38 53.33 L 0 106.67 L -92.38 160 L -184.75 106.67 Z" fill="#d98f9b" stroke="#8c3f52" stroke-width="4.8" stroke-linejoin="round"/>
+</svg>

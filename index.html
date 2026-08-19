@@ -26,19 +26,35 @@
       <div id="math-options" class="form-fields">
         <div class="form-row">
           <label for="math-max-right">a+b=＿ &nbsp;max</label>
-          <input type="number" id="math-max-right" value="10" min="1" max="99">
+          <input type="number" id="math-max-right" value="20" min="1" max="99">
         </div>
         <div class="form-row">
           <label for="math-max-left-ans">a+＿=c &nbsp;answer max</label>
-          <input type="number" id="math-max-left-ans" value="5" min="1" max="99">
+          <input type="number" id="math-max-left-ans" value="15" min="1" max="99">
         </div>
         <div class="form-row">
           <label for="math-max-left-stem">a+＿=c &nbsp;numbers max</label>
-          <input type="number" id="math-max-left-stem" value="12" min="1" max="99">
+          <input type="number" id="math-max-left-stem" value="20" min="1" max="99">
         </div>
         <div class="form-row">
-          <label for="math-count">🔢 Count</label>
-          <input type="number" id="math-count" value="10" min="2" max="30">
+          <label for="math-blank-sub-max">＿−n=r &nbsp;max</label>
+          <input type="number" id="math-blank-sub-max" value="10" min="3" max="99">
+        </div>
+        <div class="form-row">
+          <label for="math-count">🔢 Questions</label>
+          <input type="number" id="math-count" value="8" min="2" max="30">
+        </div>
+        <div class="form-row" style="margin-top: 6px; padding-top: 6px; border-top: 1px dashed #e0e0e0;">
+          <input type="checkbox" id="symbol-enabled" style="accent-color: #5c6bc0; cursor: pointer;">
+          <label for="symbol-enabled" style="cursor: pointer;">Symbol puzzles</label>
+        </div>
+        <div class="form-row">
+          <label for="symbol-count">Count</label>
+          <input type="number" id="symbol-count" value="2" min="1" max="10" placeholder="2">
+        </div>
+        <div class="form-row">
+          <label for="symbol-max">Max number</label>
+          <input type="number" id="symbol-max" value="4" min="2" max="20" placeholder="4">
         </div>
       </div>
     </div>
@@ -46,18 +62,45 @@
     <!-- Alphabet section -->
     <div class="form-section">
       <div class="form-section-title">
-        <input type="checkbox" id="alpha-enabled" checked>
+        <input type="checkbox" id="alpha-enabled">
         <label for="alpha-enabled">🔤 Alphabet</label>
+      </div>
+    </div>
+
+    <!-- Cubes section -->
+    <div class="form-section">
+      <div class="form-section-title">
+        <input type="checkbox" id="cube-enabled">
+        <label for="cube-enabled">🧊 Cubes</label>
+      </div>
+      <div id="cube-options" class="form-fields" style="display: none;">
+        <div class="form-row">
+          <label for="cube-type">Type</label>
+          <select id="cube-type">
+            <option value="mix" selected>Mix</option>
+            <option value="count">Count</option>
+            <option value="circle">Circle</option>
+            <option value="match">Match</option>
+          </select>
+        </div>
+        <div class="form-row">
+          <label for="cube-count">Count</label>
+          <input type="number" id="cube-count" value="2" min="1" max="8">
+        </div>
+        <div class="form-row" style="margin-top: 6px; padding-top: 6px; border-top: 1px dashed #e0e0e0;">
+          <input type="checkbox" id="cube-make-enabled" style="accent-color: #00838f; cursor: pointer;">
+          <label for="cube-make-enabled" style="cursor: pointer;">Make (build the target)</label>
+        </div>
       </div>
     </div>
 
     <!-- Sentences section -->
     <div class="form-section">
       <div class="form-section-title">
-        <input type="checkbox" id="sent-enabled" checked>
+        <input type="checkbox" id="sent-enabled">
         <label for="sent-enabled">📖 Sentences</label>
       </div>
-      <div id="sent-options" class="form-fields">
+      <div id="sent-options" class="form-fields" style="display: none;">
         <div class="form-row">
           <label for="sent-level">Level up to</label>
           <select id="sent-level">
@@ -81,25 +124,17 @@
     </div>
 
     <p class="hint">
-      <b>a+b=＿</b> · <b>a+＿=c</b> · <b>c−＿=b</b><br>
-      All numbers stay within your limits.<br>
+      <b>a+b=＿</b> · <b>a+＿=c</b> · <b>c−＿=b</b> · <b>＿−a=b</b> · <b>Symbol puzzles</b><br>
+      All numbers stay within 20.<br>
       Hit 🎲 for a fresh set!
     </p>
   </aside>
 
-  <!-- ── A4 preview ───────────────────────────────────────────────────────── -->
-  <main class="preview-area">
-    <div class="a4-page" id="worksheet">
-      <div class="ws-deco-top"></div>
-      <h1 class="ws-title" id="ws-title-display"></h1>
-      <section id="ws-math"></section>
-      <section id="ws-alpha"></section>
-      <section id="ws-sent"></section>
-      <div class="ws-deco-bottom"></div>
-    </div>
-  </main>
+  <!-- ── A4 preview — one .a4-page div per sheet, built by app.js ──────────── -->
+  <main class="preview-area" id="pages"></main>
 
   <script src="sentences.js"></script>
+  <script src="cubes.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
